@@ -8,30 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8aaf1beca4e373f0",
+            "id": "55f992cf06eced37",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/Сигмоидальные.md",
+                "file": "ML.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "ef6be5b0358db167",
+            "id": "5a6bbc9a94fc3413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "python_libs/PyTorch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/Сигмоидальные.md",
+                "file": "python_libs/PyTorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/Сигмоидальные.md",
+                "file": "python_libs/PyTorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/Сигмоидальные.md"
+                "file": "python_libs/PyTorch.md"
               }
             }
           }
@@ -150,30 +153,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8aaf1beca4e373f0",
+  "active": "ab5739e0d61df504",
   "lastOpenFiles": [
+    "python_libs",
     "ML.md",
-    "DL/С гиперболическим тангенсом.md",
+    "python_libs/PyTorch.md",
+    "DL/ReLu.md",
     "DL/Сигмоидальные.md",
+    "Перцептроны Румельхарта.md",
+    "Screenshot from 2024-07-22 13-41-19.png",
+    "Батч.md",
     "Эпоха.md",
+    "ML/Функция потерь.md",
+    "DL/Softplus.md",
+    "DL/С гиперболическим тангенсом.md",
     "DL/Перцептроны.md",
     "Без названия.md",
-    "DL/Softplus.md",
     "DL/Screenshot (245).png",
     "DL/Screenshot (244).png",
-    "DL/ReLu.md",
     "ML",
     "DL",
     "ML/Эмпирический риск.md",
-    "ML/Функция потерь.md",
     "DL/Строение нейрона.md",
     "ML/K-means.md",
     "ML/критерий джини и gini impurity.md",
