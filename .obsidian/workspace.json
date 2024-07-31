@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "python_libs/PyTorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "python_libs/PyTorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "python_libs/PyTorch.md"
               }
             }
           }
@@ -161,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab5739e0d61df504",
+  "active": "5a6bbc9a94fc3413",
   "lastOpenFiles": [
-    "python_libs",
     "ML.md",
+    "python_libs",
     "python_libs/PyTorch.md",
     "DL/ReLu.md",
     "DL/Сигмоидальные.md",
