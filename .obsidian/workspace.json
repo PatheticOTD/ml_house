@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7cbafd25faa0de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sgd with nesterov momentum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sgd with momentum.md",
+                "file": "sgd with nesterov momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sgd with momentum.md",
+                "file": "sgd with nesterov momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sgd with momentum.md"
+                "file": "sgd with nesterov momentum.md"
               }
             }
           }
@@ -161,9 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6bbc9a94fc3413",
+  "active": "c7cbafd25faa0de6",
   "lastOpenFiles": [
     "ML.md",
+    "sgd with nesterov momentum.md",
     "sgd with momentum.md",
     "python_libs/PyTorch.md",
     "python_libs",
