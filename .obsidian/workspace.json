@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5042f6a2210b6e6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adagrad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adagrad.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adagrad.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adagrad.md"
+                "file": "ML.md"
               }
             }
           }
@@ -161,12 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5042f6a2210b6e6e",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
+    "adagrad.md",
     "Screenshot from 2024-08-05 18-23-23.png",
     "Screenshot from 2024-08-05 17-52-38.png",
     "ML.md",
-    "adagrad.md",
     "sgd with momentum.md",
     "sgd with nesterov momentum.md",
     "Screenshot from 2024-08-05 17-48-00.png",
