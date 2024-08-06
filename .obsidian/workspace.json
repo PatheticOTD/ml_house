@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adam.md",
+                "file": "rmsprop.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adam.md",
+                "file": "rmsprop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adam.md",
+                "file": "rmsprop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adam.md"
+                "file": "rmsprop.md"
               }
             }
           }
@@ -175,9 +175,10 @@
   },
   "active": "ff543520d3867014",
   "lastOpenFiles": [
+    "adam.md",
+    "Screenshot from 2024-08-06 17-28-22.png",
     "Screenshot from 2024-08-06 17-23-49.png",
     "ML.md",
-    "adam.md",
     "rmsprop.md",
     "Screenshot from 2024-08-06 17-19-05.png",
     "Screenshot from 2024-08-06 17-16-47.png",
@@ -209,8 +210,6 @@
     "DL/Строение нейрона.md",
     "ML/K-means.md",
     "ML/критерий джини и gini impurity.md",
-    "DL/Перцептроны.jpg",
-    "DL/Screenshot (242).png",
     "ML/GBM.md"
   ]
 }
