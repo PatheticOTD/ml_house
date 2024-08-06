@@ -22,12 +22,24 @@
             }
           },
           {
-            "id": "d9901282109fe29b",
+            "id": "5b4612eefa9e2a9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adagrad.md",
+                "file": "sgd with nesterov momentum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46d31b51c72e760b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sgd with momentum.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adagrad.md",
+                "file": "sgd with nesterov momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adagrad.md",
+                "file": "sgd with nesterov momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adagrad.md"
+                "file": "sgd with nesterov momentum.md"
               }
             }
           }
@@ -161,15 +173,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9901282109fe29b",
+  "active": "5b4612eefa9e2a9f",
   "lastOpenFiles": [
     "ML.md",
-    "ML/AdaBoost.md",
-    "adagrad.md",
-    "Screenshot from 2024-08-05 18-23-23.png",
-    "Screenshot from 2024-08-05 17-52-38.png",
     "sgd with momentum.md",
     "sgd with nesterov momentum.md",
+    "adagrad.md",
+    "ML/AdaBoost.md",
+    "Screenshot from 2024-08-05 18-23-23.png",
+    "Screenshot from 2024-08-05 17-52-38.png",
     "Screenshot from 2024-08-05 17-48-00.png",
     "python_libs/PyTorch.md",
     "python_libs",
