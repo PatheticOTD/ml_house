@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d9901282109fe29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adagrad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "adagrad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "adagrad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "adagrad.md"
               }
             }
           }
@@ -148,12 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "d9901282109fe29b",
   "lastOpenFiles": [
+    "ML.md",
+    "ML/AdaBoost.md",
     "adagrad.md",
     "Screenshot from 2024-08-05 18-23-23.png",
     "Screenshot from 2024-08-05 17-52-38.png",
-    "ML.md",
     "sgd with momentum.md",
     "sgd with nesterov momentum.md",
     "Screenshot from 2024-08-05 17-48-00.png",
@@ -181,7 +195,6 @@
     "DL/Перцептроны.jpg",
     "DL/Screenshot (242).png",
     "ML/GBM.md",
-    "ML/AdaBoost.md",
     "ML/stump 1.png",
     "stump.png"
   ]
