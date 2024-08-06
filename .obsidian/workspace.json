@@ -44,6 +44,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ead173912a3c3d2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -175,9 +183,9 @@
   },
   "active": "fa24b38da8b21f70",
   "lastOpenFiles": [
-    "rmsprop.md",
-    "adam.md",
     "ML.md",
+    "adam.md",
+    "rmsprop.md",
     "Screenshot from 2024-08-06 17-28-22.png",
     "Screenshot from 2024-08-06 17-23-49.png",
     "Screenshot from 2024-08-06 17-19-05.png",
