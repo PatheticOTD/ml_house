@@ -164,6 +164,7 @@
   "active": "e4651c5786eeecba",
   "lastOpenFiles": [
     "ML.md",
+    "python_libs/PyTorch.md",
     "rmsprop.md",
     "adam.md",
     "adadelta.md",
@@ -179,7 +180,6 @@
     "Screenshot from 2024-08-05 18-23-23.png",
     "Screenshot from 2024-08-05 17-52-38.png",
     "Screenshot from 2024-08-05 17-48-00.png",
-    "python_libs/PyTorch.md",
     "python_libs",
     "DL/ReLu.md",
     "DL/Сигмоидальные.md",
