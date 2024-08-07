@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a065e3f8fc722192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python_libs/PyTorch.md",
+                "file": "adam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python_libs/PyTorch.md",
+                "file": "adam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python_libs/PyTorch.md"
+                "file": "adam.md"
               }
             }
           }
@@ -161,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4651c5786eeecba",
+  "active": "a065e3f8fc722192",
   "lastOpenFiles": [
     "ML.md",
     "python_libs/PyTorch.md",
