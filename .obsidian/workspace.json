@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e4651c5786eeecba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python_libs/PyTorch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "python_libs/PyTorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "python_libs/PyTorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "python_libs/PyTorch.md"
               }
             }
           }
@@ -148,13 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "e4651c5786eeecba",
   "lastOpenFiles": [
+    "ML.md",
     "rmsprop.md",
     "adam.md",
     "adadelta.md",
     "Screenshot from 2024-08-06 17-49-46.png",
-    "ML.md",
     "Screenshot from 2024-08-06 17-28-22.png",
     "Screenshot from 2024-08-06 17-23-49.png",
     "Screenshot from 2024-08-06 17-19-05.png",
