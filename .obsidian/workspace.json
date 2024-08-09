@@ -56,8 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b883af91ab87d99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Два предположения, нужных для функции эмпирического риска.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "Два предположения, нужных для функции эмпирического риска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "Два предположения, нужных для функции эмпирического риска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "Два предположения, нужных для функции эмпирического риска.md"
               }
             }
           }
@@ -184,14 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "b883af91ab87d99d",
   "lastOpenFiles": [
+    "ML.md",
+    "Два предположения, нужных для функции эмпирического риска.md",
     "Лютейшая база.md",
     "Screenshot from 2024-08-09 12-38-03.png",
     "Screenshot from 2024-08-09 12-36-06.png",
     "Screenshot from 2024-08-09 12-33-34.png",
     "Screenshot from 2024-08-09 12-32-17.png",
-    "ML.md",
     "adam.md",
     "python_libs/PyTorch.md",
     "rmsprop.md",
