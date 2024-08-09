@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "325d3e9dfba691cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лютейшая база.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adam.md",
+                "file": "Лютейшая база.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adam.md",
+                "file": "Лютейшая база.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adam.md"
+                "file": "Лютейшая база.md"
               }
             }
           }
@@ -173,12 +185,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a065e3f8fc722192",
+  "active": "325d3e9dfba691cd",
   "lastOpenFiles": [
+    "Screenshot from 2024-08-09 12-36-06.png",
+    "Screenshot from 2024-08-09 12-33-34.png",
+    "Screenshot from 2024-08-09 12-32-17.png",
     "ML.md",
+    "Лютейшая база.md",
+    "adam.md",
     "python_libs/PyTorch.md",
     "rmsprop.md",
-    "adam.md",
     "adadelta.md",
     "Screenshot from 2024-08-06 17-49-46.png",
     "Screenshot from 2024-08-06 17-28-22.png",
@@ -196,7 +212,6 @@
     "DL/ReLu.md",
     "DL/Сигмоидальные.md",
     "Перцептроны Румельхарта.md",
-    "Screenshot from 2024-07-22 13-41-19.png",
     "Батч.md",
     "Эпоха.md",
     "ML/Функция потерь.md",
@@ -204,7 +219,6 @@
     "DL/С гиперболическим тангенсом.md",
     "DL/Перцептроны.md",
     "Без названия.md",
-    "DL/Screenshot (245).png",
     "ML",
     "DL",
     "ML/Эмпирический риск.md",
