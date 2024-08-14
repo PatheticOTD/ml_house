@@ -163,6 +163,9 @@
   },
   "active": "d4e58a8ec3625ac6",
   "lastOpenFiles": [
+    "Screenshot from 2024-08-14 17-05-25.png",
+    "Screenshot from 2024-08-14 17-05-04.png",
+    "images/Screenshot from 2024-08-14 17-02-33.png",
     "conflict-files-obsidian-git.md",
     "DL/Четыре базовых уравнений для backpropagation.md",
     "DL/Четыре базовых уравнения для backpropagation.md",
@@ -184,8 +187,6 @@
     "DL/adam.md",
     "DL/rmsprop.md",
     "DL/adadelta.md",
-    "images/Screenshot from 2024-08-06 17-49-46.png",
-    "images/Screenshot from 2024-08-06 17-28-22.png",
     "DL/sgd with nesterov momentum.md",
     "DL/sgd with momentum.md",
     "DL/adagrad.md",
@@ -201,7 +202,6 @@
     "DL/Перцептроны.md",
     "DL/Без названия.md",
     "ML",
-    "DL",
-    "ML/Эмпирический риск.md"
+    "DL"
   ]
 }
