@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/Сигмоидальные.md",
+                "file": "ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/Сигмоидальные.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/Сигмоидальные.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/Сигмоидальные.md"
+                "file": "ML.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "8aaf1beca4e373f0",
   "lastOpenFiles": [
+    "DL/Сигмоидальные.md",
     "ML.md",
     "DL/С гиперболическим тангенсом.md",
-    "DL/Сигмоидальные.md",
     "Эпоха.md",
     "DL/Перцептроны.md",
     "Без названия.md",
