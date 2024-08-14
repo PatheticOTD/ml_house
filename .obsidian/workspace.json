@@ -32,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "615e41e1b6a003c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DL/Четыре базовых уравнений для backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DL/Четыре базовых уравнений для backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "DL/Четыре базовых уравнений для backpropagation.md"
               }
             }
           }
@@ -173,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "615e41e1b6a003c6",
+  "active": "d4e58a8ec3625ac6",
   "lastOpenFiles": [
-    "DL/Четыре базовых уравнений для backpropagation.md",
     "conflict-files-obsidian-git.md",
+    "DL/Четыре базовых уравнений для backpropagation.md",
     "DL/Четыре базовых уравнения для backpropagation.md",
     "images/Screenshot from 2024-08-14 16-53-24.png",
     "ML.md",
