@@ -25,9 +25,11 @@
             "id": "d4e58a8ec3625ac6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Screenshot from 2024-07-22 13-41-19.png"
+                "file": "DL/Четыре базовых уравнений для backpropagation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Screenshot from 2024-07-22 13-41-19.png",
+                "file": "DL/Четыре базовых уравнений для backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Screenshot from 2024-07-22 13-41-19.png",
+                "file": "DL/Четыре базовых уравнений для backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Screenshot from 2024-07-22 13-41-19.png"
+                "file": "DL/Четыре базовых уравнений для backpropagation.md"
               }
             }
           }
@@ -161,41 +163,42 @@
   },
   "active": "a8497c31de7976f2",
   "lastOpenFiles": [
-    "images",
-    "Четыре базовых уравнений для backpropagation.md",
+    "images/Screenshot from 2024-08-14 16-53-24.png",
     "ML.md",
-    "Hadamard product.md",
+    "DL/Hadamard product.md",
+    "DL/Эпоха.md",
+    "images/Screenshot from 2024-07-22 13-41-19.png",
+    "images",
+    "DL/Четыре базовых уравнений для backpropagation.md",
     "images/Screenshot from 2024-08-09 20-08-30.png",
     "python_libs/PyTorch.md",
-    "Лютейшая база.md",
-    "Два предположения, нужных для функции эмпирического риска.md",
+    "DL/Лютейшая база.md",
+    "DL/Два предположения, нужных для функции эмпирического риска.md",
     "images/Screenshot from 2024-08-09 20-02-56.png",
     "images/Screenshot from 2024-08-09 12-38-03.png",
     "images/Screenshot from 2024-08-09 12-36-06.png",
     "images/Screenshot from 2024-08-09 12-33-34.png",
     "images/Screenshot from 2024-08-09 12-32-17.png",
-    "adam.md",
-    "rmsprop.md",
-    "adadelta.md",
+    "DL/adam.md",
+    "DL/rmsprop.md",
+    "DL/adadelta.md",
     "images/Screenshot from 2024-08-06 17-49-46.png",
     "images/Screenshot from 2024-08-06 17-28-22.png",
     "images/Screenshot from 2024-08-06 17-23-49.png",
-    "images/Screenshot from 2024-08-06 17-19-05.png",
-    "sgd with nesterov momentum.md",
-    "sgd with momentum.md",
-    "adagrad.md",
+    "DL/sgd with nesterov momentum.md",
+    "DL/sgd with momentum.md",
+    "DL/adagrad.md",
     "ML/AdaBoost.md",
     "python_libs",
     "DL/ReLu.md",
     "DL/Сигмоидальные.md",
-    "Перцептроны Румельхарта.md",
-    "Батч.md",
-    "Эпоха.md",
+    "DL/Перцептроны Румельхарта.md",
+    "DL/Батч.md",
     "ML/Функция потерь.md",
     "DL/Softplus.md",
     "DL/С гиперболическим тангенсом.md",
     "DL/Перцептроны.md",
-    "Без названия.md",
+    "DL/Без названия.md",
     "ML",
     "DL",
     "ML/Эмпирический риск.md",
