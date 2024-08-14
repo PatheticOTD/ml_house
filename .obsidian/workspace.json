@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "615e41e1b6a003c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/Четыре базовых уравнений для backpropagation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/Четыре базовых уравнений для backpropagation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/Четыре базовых уравнений для backpropagation.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -161,15 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8497c31de7976f2",
+  "active": "615e41e1b6a003c6",
   "lastOpenFiles": [
+    "DL/Четыре базовых уравнений для backpropagation.md",
+    "conflict-files-obsidian-git.md",
+    "DL/Четыре базовых уравнения для backpropagation.md",
     "images/Screenshot from 2024-08-14 16-53-24.png",
     "ML.md",
     "DL/Hadamard product.md",
     "DL/Эпоха.md",
     "images/Screenshot from 2024-07-22 13-41-19.png",
     "images",
-    "DL/Четыре базовых уравнений для backpropagation.md",
     "images/Screenshot from 2024-08-09 20-08-30.png",
     "python_libs/PyTorch.md",
     "DL/Лютейшая база.md",
@@ -184,7 +198,6 @@
     "DL/adadelta.md",
     "images/Screenshot from 2024-08-06 17-49-46.png",
     "images/Screenshot from 2024-08-06 17-28-22.png",
-    "images/Screenshot from 2024-08-06 17-23-49.png",
     "DL/sgd with nesterov momentum.md",
     "DL/sgd with momentum.md",
     "DL/adagrad.md",
@@ -201,7 +214,6 @@
     "DL/Без названия.md",
     "ML",
     "DL",
-    "ML/Эмпирический риск.md",
-    "DL/Строение нейрона.md"
+    "ML/Эмпирический риск.md"
   ]
 }
