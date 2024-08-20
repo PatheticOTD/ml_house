@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/Лютейшая база.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/Лютейшая база.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/Лютейшая база.md"
+                "file": "ML.md"
               }
             }
           }
@@ -161,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0c92f4f3fe0f47a",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
+    "DL/Лютейшая база.md",
     "ML.md",
     "DL/Четыре базовых уравнений для backpropagation.md",
-    "DL/Лютейшая база.md",
     "Screenshot from 2024-08-14 17-24-59.png",
     "images/Screenshot from 2024-08-14 17-19-51.png",
     "images/Screenshot from 2024-08-14 17-05-25.png",
