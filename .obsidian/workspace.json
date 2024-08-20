@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cddc385fa4052b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/Лютейшая база.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "DL/Четыре базовых уравнений для backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "DL/Четыре базовых уравнений для backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "DL/Четыре базовых уравнений для backpropagation.md"
               }
             }
           }
@@ -160,8 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "d4e58a8ec3625ac6",
   "lastOpenFiles": [
+    "DL/Лютейшая база.md",
+    "ML.md",
     "DL/Четыре базовых уравнений для backpropagation.md",
     "Screenshot from 2024-08-14 17-24-59.png",
     "images/Screenshot from 2024-08-14 17-19-51.png",
@@ -171,14 +186,12 @@
     "conflict-files-obsidian-git.md",
     "DL/Четыре базовых уравнения для backpropagation.md",
     "images/Screenshot from 2024-08-14 16-53-24.png",
-    "ML.md",
     "DL/Hadamard product.md",
     "DL/Эпоха.md",
     "images/Screenshot from 2024-07-22 13-41-19.png",
     "images",
     "images/Screenshot from 2024-08-09 20-08-30.png",
     "python_libs/PyTorch.md",
-    "DL/Лютейшая база.md",
     "DL/Два предположения, нужных для функции эмпирического риска.md",
     "images/Screenshot from 2024-08-09 20-02-56.png",
     "images/Screenshot from 2024-08-09 12-38-03.png",
