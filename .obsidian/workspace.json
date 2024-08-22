@@ -22,18 +22,31 @@
             }
           },
           {
-            "id": "b0c92f4f3fe0f47a",
+            "id": "d8562523150de77d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/Лютейшая база.md",
+                "file": "OLS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de4a609c44c10dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "MLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "MLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "MLE.md"
               }
             }
           }
@@ -160,10 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "de4a609c44c10dbc",
   "lastOpenFiles": [
-    "DL/Лютейшая база.md",
     "ML.md",
+    "MLE.md",
+    "DL/Лютейшая база.md",
+    "OLS.md",
     "DL/Четыре базовых уравнений для backpropagation.md",
     "Screenshot from 2024-08-14 17-24-59.png",
     "images/Screenshot from 2024-08-14 17-19-51.png",
@@ -198,7 +213,6 @@
     "DL/Softplus.md",
     "DL/С гиперболическим тангенсом.md",
     "DL/Перцептроны.md",
-    "DL/Без названия.md",
     "ML",
     "DL"
   ]
