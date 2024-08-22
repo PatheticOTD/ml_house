@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fedd3e9763d839e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cross Entropy Loss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MLE.md",
+                "file": "Cross Entropy Loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLE.md",
+                "file": "Cross Entropy Loss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MLE.md"
+                "file": "Cross Entropy Loss.md"
               }
             }
           }
@@ -173,12 +185,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de4a609c44c10dbc",
+  "active": "fedd3e9763d839e2",
   "lastOpenFiles": [
+    "ML.md",
+    "Cross Entropy Loss.md",
+    "MLE.md",
     "Screenshot from 2024-08-22 13-26-57.png",
     "Screenshot from 2024-08-22 13-18-54.png",
-    "ML.md",
-    "MLE.md",
     "DL/Лютейшая база.md",
     "OLS.md",
     "DL/Четыре базовых уравнений для backpropagation.md",
@@ -197,7 +210,6 @@
     "images/Screenshot from 2024-08-09 20-08-30.png",
     "python_libs/PyTorch.md",
     "DL/Два предположения, нужных для функции эмпирического риска.md",
-    "images/Screenshot from 2024-08-09 20-02-56.png",
     "DL/adam.md",
     "DL/rmsprop.md",
     "DL/adadelta.md",
