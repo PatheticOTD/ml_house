@@ -45,3 +45,6 @@
 3) [[Hadamard product]]
 4) [[Четыре базовых уравнения для backpropagation]]
 
+
+#### Метрики:
+1) osl
