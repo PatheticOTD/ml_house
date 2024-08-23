@@ -22,55 +22,19 @@
             }
           },
           {
-            "id": "d8562523150de77d",
+            "id": "f36bd9b1fd8703b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OLS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de4a609c44c10dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python_libs/PyTorch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fedd3e9763d839e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cross Entropy Loss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e1d54c2f1bbb718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/adam.md",
+                "file": "DL/adadelta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python_libs/PyTorch.md",
+                "file": "DL/adadelta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python_libs/PyTorch.md",
+                "file": "DL/adadelta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python_libs/PyTorch.md"
+                "file": "DL/adadelta.md"
               }
             }
           }
@@ -197,14 +161,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de4a609c44c10dbc",
+  "active": "f36bd9b1fd8703b2",
   "lastOpenFiles": [
-    "DL/adam.md",
-    "Cross Entropy Loss.md",
     "ML.md",
-    "python_libs/PyTorch.md",
-    "MLE.md",
     "OLS.md",
+    "python_libs/PyTorch.md",
+    "Cross Entropy Loss.md",
+    "DL/adam.md",
+    "MLE.md",
     "Screenshot from 2024-08-22 13-44-54.png",
     "Screenshot from 2024-08-22 13-26-57.png",
     "Screenshot from 2024-08-22 13-18-54.png",
