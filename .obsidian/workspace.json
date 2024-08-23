@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLE.md",
+                "file": "python_libs/PyTorch.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cross Entropy Loss.md",
+                "file": "python_libs/PyTorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cross Entropy Loss.md",
+                "file": "python_libs/PyTorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cross Entropy Loss.md"
+                "file": "python_libs/PyTorch.md"
               }
             }
           }
@@ -185,16 +185,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fedd3e9763d839e2",
+  "active": "de4a609c44c10dbc",
   "lastOpenFiles": [
+    "MLE.md",
+    "OLS.md",
+    "Cross Entropy Loss.md",
     "Screenshot from 2024-08-22 13-44-54.png",
     "ML.md",
-    "Cross Entropy Loss.md",
-    "MLE.md",
     "Screenshot from 2024-08-22 13-26-57.png",
     "Screenshot from 2024-08-22 13-18-54.png",
     "DL/Лютейшая база.md",
-    "OLS.md",
     "DL/Четыре базовых уравнений для backpropagation.md",
     "Screenshot from 2024-08-14 17-24-59.png",
     "images/Screenshot from 2024-08-14 17-19-51.png",
@@ -208,7 +208,6 @@
     "DL/Эпоха.md",
     "images/Screenshot from 2024-07-22 13-41-19.png",
     "images",
-    "images/Screenshot from 2024-08-09 20-08-30.png",
     "python_libs/PyTorch.md",
     "DL/Два предположения, нужных для функции эмпирического риска.md",
     "DL/adam.md",
