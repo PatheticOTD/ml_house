@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1777078046d052d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/adam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/adadelta.md",
+                "file": "DL/adam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/adadelta.md",
+                "file": "DL/adam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/adadelta.md"
+                "file": "DL/adam.md"
               }
             }
           }
@@ -161,9 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f36bd9b1fd8703b2",
+  "active": "b1777078046d052d",
   "lastOpenFiles": [
     "ML.md",
+    "DL/adadelta.md",
     "OLS.md",
     "python_libs/PyTorch.md",
     "Cross Entropy Loss.md",
@@ -188,7 +201,6 @@
     "images",
     "DL/Два предположения, нужных для функции эмпирического риска.md",
     "DL/rmsprop.md",
-    "DL/adadelta.md",
     "DL/sgd with nesterov momentum.md",
     "DL/sgd with momentum.md",
     "DL/adagrad.md",
