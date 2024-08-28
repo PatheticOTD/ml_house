@@ -46,31 +46,18 @@
             }
           },
           {
-            "id": "801d990381320c54",
+            "id": "04894329a4482c55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3372ccd3ab8b97f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/Два предположения, нужных для функции эмпирического риска.md",
+                "file": "DL/Четыре базовых уравнения для backpropagation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/Два предположения, нужных для функции эмпирического риска.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/Два предположения, нужных для функции эмпирического риска.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/Два предположения, нужных для функции эмпирического риска.md"
+                "file": "ML.md"
               }
             }
           }
@@ -197,13 +184,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3372ccd3ab8b97f",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
+    "DL/adadelta.md",
+    "DL/adam.md",
+    "DL/Два предположения, нужных для функции эмпирического риска.md",
+    "DL/Четыре базовых уравнения для backpropagation.md",
     "ML.md",
+    "DL/Hadamard product.md",
     "MLE.md",
     "OLS.md",
-    "DL/adam.md",
-    "DL/adadelta.md",
     "python_libs/PyTorch.md",
     "Cross Entropy Loss.md",
     "Screenshot from 2024-08-22 13-44-54.png",
@@ -217,13 +207,10 @@
     "images/Screenshot from 2024-08-14 17-05-04.png",
     "images/Screenshot from 2024-08-14 17-02-33.png",
     "conflict-files-obsidian-git.md",
-    "DL/Четыре базовых уравнения для backpropagation.md",
     "images/Screenshot from 2024-08-14 16-53-24.png",
-    "DL/Hadamard product.md",
     "DL/Эпоха.md",
     "images/Screenshot from 2024-07-22 13-41-19.png",
     "images",
-    "DL/Два предположения, нужных для функции эмпирического риска.md",
     "DL/rmsprop.md",
     "DL/sgd with nesterov momentum.md",
     "DL/sgd with momentum.md",
