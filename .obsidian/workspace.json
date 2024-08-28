@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3372ccd3ab8b97f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/Два предположения, нужных для функции эмпирического риска.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MLE.md",
+                "file": "DL/Два предположения, нужных для функции эмпирического риска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLE.md",
+                "file": "DL/Два предположения, нужных для функции эмпирического риска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MLE.md"
+                "file": "DL/Два предположения, нужных для функции эмпирического риска.md"
               }
             }
           }
@@ -185,11 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801d990381320c54",
+  "active": "b3372ccd3ab8b97f",
   "lastOpenFiles": [
-    "OLS.md",
     "ML.md",
     "MLE.md",
+    "OLS.md",
     "DL/adam.md",
     "DL/adadelta.md",
     "python_libs/PyTorch.md",
