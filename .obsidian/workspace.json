@@ -22,42 +22,19 @@
             }
           },
           {
-            "id": "f36bd9b1fd8703b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/adadelta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1777078046d052d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/adam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04894329a4482c55",
+            "id": "6c190cb23612df55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DL/Четыре базовых уравнения для backpropagation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 519.5
   },
   "right": {
     "id": "c51ec527b41c23bf",
@@ -123,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "DL/Четыре базовых уравнения для backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "DL/Четыре базовых уравнения для backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "DL/Четыре базовых уравнения для backpropagation.md"
               }
             }
           }
@@ -184,23 +161,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "6c190cb23612df55",
   "lastOpenFiles": [
-    "DL/adadelta.md",
-    "DL/adam.md",
-    "DL/Два предположения, нужных для функции эмпирического риска.md",
-    "DL/Четыре базовых уравнения для backpropagation.md",
     "ML.md",
+    "DL/Четыре базовых уравнения для backpropagation.md",
+    "DL/Эпоха.md",
+    "ML/Cross Entropy Loss.md",
+    "ML/MLE.md",
+    "DL/adam.md",
+    "DL/adadelta.md",
+    "DL/Два предположения, нужных для функции эмпирического риска.md",
     "DL/Hadamard product.md",
-    "MLE.md",
-    "OLS.md",
+    "ML/OLS.md",
     "python_libs/PyTorch.md",
-    "Cross Entropy Loss.md",
     "Screenshot from 2024-08-22 13-44-54.png",
     "Screenshot from 2024-08-22 13-26-57.png",
     "Screenshot from 2024-08-22 13-18-54.png",
     "DL/Лютейшая база.md",
-    "DL/Четыре базовых уравнений для backpropagation.md",
     "Screenshot from 2024-08-14 17-24-59.png",
     "images/Screenshot from 2024-08-14 17-19-51.png",
     "images/Screenshot from 2024-08-14 17-05-25.png",
@@ -208,7 +185,6 @@
     "images/Screenshot from 2024-08-14 17-02-33.png",
     "conflict-files-obsidian-git.md",
     "images/Screenshot from 2024-08-14 16-53-24.png",
-    "DL/Эпоха.md",
     "images/Screenshot from 2024-07-22 13-41-19.png",
     "images",
     "DL/rmsprop.md",
