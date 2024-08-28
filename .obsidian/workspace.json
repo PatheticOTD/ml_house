@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "68f25f7ab5991a07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softmax.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "19fb33543daa43e8",
             "type": "leaf",
             "state": {
@@ -44,21 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "68f25f7ab5991a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softmax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
