@@ -46,18 +46,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a45ae616fcea4b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/Softplus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -189,10 +177,10 @@
   },
   "active": "68f25f7ab5991a07",
   "lastOpenFiles": [
-    "ML.md",
-    "Softmax.md",
-    "DL/Softplus.md",
     "CNN.md",
+    "DL/Softplus.md",
+    "Softmax.md",
+    "ML.md",
     "ML/Cross Entropy Loss.md",
     "DL/Четыре базовых уравнения для backpropagation.md",
     "DL/Эпоха.md",
