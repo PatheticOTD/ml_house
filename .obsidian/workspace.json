@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90e071a4257c273d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Cross Entropy Loss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/MLE.md",
+                "file": "ML/Cross Entropy Loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/MLE.md",
+                "file": "ML/Cross Entropy Loss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/MLE.md"
+                "file": "ML/Cross Entropy Loss.md"
               }
             }
           }
@@ -187,16 +199,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50fbef6e5042b56b",
+  "active": "90e071a4257c273d",
   "lastOpenFiles": [
-    "ML/Cross Entropy Loss.md",
     "ML.md",
+    "ML/MLE.md",
+    "ML/Cross Entropy Loss.md",
     "Softmax.md",
     "CNN.md",
     "DL/Softplus.md",
     "DL/Четыре базовых уравнения для backpropagation.md",
     "DL/Эпоха.md",
-    "ML/MLE.md",
     "DL/adam.md",
     "DL/adadelta.md",
     "DL/Два предположения, нужных для функции эмпирического риска.md",
