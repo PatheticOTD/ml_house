@@ -70,9 +70,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa21086cb0456804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python_libs/PyTorch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Cross Entropy Loss.md",
+                "file": "python_libs/PyTorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Cross Entropy Loss.md",
+                "file": "python_libs/PyTorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Cross Entropy Loss.md"
+                "file": "python_libs/PyTorch.md"
               }
             }
           }
@@ -199,11 +211,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90e071a4257c273d",
+  "active": "aa21086cb0456804",
   "lastOpenFiles": [
-    "DL/Сигмоидальные.md",
     "ML.md",
     "ML/Cross Entropy Loss.md",
+    "DL/Сигмоидальные.md",
     "ML/MLE.md",
     "Softmax.md",
     "CNN.md",
