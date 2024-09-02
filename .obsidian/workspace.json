@@ -20,45 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8158dd3d602352c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/sgd with momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45bf0288da30af57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/sgd with nesterov momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0474147209c6e93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python_libs/PyTorch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python_libs/PyTorch.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python_libs/PyTorch.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python_libs/PyTorch.md"
+                "file": "ML.md"
               }
             }
           }
@@ -185,13 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0474147209c6e93",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
-    "ML.md",
-    "DL/sgd with nesterov momentum.md",
     "DL/sgd with momentum.md",
-    "Softmax.md",
+    "DL/sgd with nesterov momentum.md",
     "python_libs/PyTorch.md",
+    "ML.md",
+    "Softmax.md",
     "ML/Cross Entropy Loss.md",
     "DL/Сигмоидальные.md",
     "ML/MLE.md",
