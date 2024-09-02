@@ -25,16 +25,26 @@
             "id": "e4a1bb14fbe33b45",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Screenshot from 2024-08-14 17-24-59.png"
+              }
+            }
+          },
+          {
+            "id": "6eeb0cc5c4c62789",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "CNN.md",
+                "file": "Pooling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNN.md",
+                "file": "Pooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CNN.md",
+                "file": "Pooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNN.md"
+                "file": "Pooling.md"
               }
             }
           }
@@ -161,13 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4a1bb14fbe33b45",
+  "active": "6eeb0cc5c4c62789",
   "lastOpenFiles": [
-    "Screenshot from 2024-09-02 14-44-36.png",
-    "Screenshot from 2024-09-02 14-37-41.png",
-    "Screenshot from 2024-09-02 14-28-11.png",
-    "Screenshot from 2024-09-02 14-25-46.png",
-    "Screenshot from 2024-09-02 14-08-53.png",
+    "images/Screenshot from 2024-08-14 17-24-59.png",
+    "Pooling.md",
+    "CNN.md",
+    "images/Screenshot from 2024-09-02 14-44-36.png",
+    "images/Screenshot from 2024-09-02 14-37-41.png",
+    "images/Screenshot from 2024-09-02 14-28-11.png",
+    "images/Screenshot from 2024-09-02 14-25-46.png",
+    "images/Screenshot from 2024-09-02 14-08-53.png",
     "ML.md",
     "DL/sgd with momentum.md",
     "DL/sgd with nesterov momentum.md",
@@ -176,7 +189,6 @@
     "ML/Cross Entropy Loss.md",
     "DL/Сигмоидальные.md",
     "ML/MLE.md",
-    "CNN.md",
     "DL/Softplus.md",
     "DL/Четыре базовых уравнения для backpropagation.md",
     "DL/Эпоха.md",
@@ -185,13 +197,11 @@
     "DL/Два предположения, нужных для функции эмпирического риска.md",
     "DL/Hadamard product.md",
     "ML/OLS.md",
-    "Screenshot from 2024-08-22 13-44-54.png",
-    "Screenshot from 2024-08-22 13-26-57.png",
-    "Screenshot from 2024-08-22 13-18-54.png",
+    "images/Screenshot from 2024-08-22 13-44-54.png",
+    "images/Screenshot from 2024-08-22 13-26-57.png",
+    "images/Screenshot from 2024-08-22 13-18-54.png",
     "DL/Лютейшая база.md",
-    "Screenshot from 2024-08-14 17-24-59.png",
     "images/Screenshot from 2024-08-14 17-19-51.png",
-    "images/Screenshot from 2024-08-14 17-05-25.png",
     "conflict-files-obsidian-git.md",
     "images",
     "DL/rmsprop.md",
@@ -200,7 +210,6 @@
     "python_libs",
     "DL/ReLu.md",
     "DL/Перцептроны Румельхарта.md",
-    "DL/Батч.md",
     "ML",
     "DL"
   ]
