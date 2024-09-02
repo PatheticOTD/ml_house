@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "e4a1bb14fbe33b45",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Screenshot from 2024-08-14 17-24-59.png"
-              }
-            }
-          },
-          {
             "id": "6eeb0cc5c4c62789",
             "type": "leaf",
             "state": {
@@ -43,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pooling.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pooling.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pooling.md"
+                "file": "ML.md"
               }
             }
           }
@@ -171,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eeb0cc5c4c62789",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
     "images/Screenshot from 2024-08-14 17-24-59.png",
+    "ML.md",
     "Pooling.md",
     "CNN.md",
     "images/Screenshot from 2024-09-02 14-44-36.png",
@@ -181,7 +171,6 @@
     "images/Screenshot from 2024-09-02 14-28-11.png",
     "images/Screenshot from 2024-09-02 14-25-46.png",
     "images/Screenshot from 2024-09-02 14-08-53.png",
-    "ML.md",
     "DL/sgd with momentum.md",
     "DL/sgd with nesterov momentum.md",
     "python_libs/PyTorch.md",
