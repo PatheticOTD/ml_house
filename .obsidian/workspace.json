@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed87f174b9bf0d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "CNN.md"
               }
             }
           }
@@ -160,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "ed87f174b9bf0d29",
   "lastOpenFiles": [
-    "images/Screenshot from 2024-08-14 17-24-59.png",
     "ML.md",
+    "images/Screenshot from 2024-08-14 17-24-59.png",
     "Pooling.md",
     "CNN.md",
     "images/Screenshot from 2024-09-02 14-44-36.png",
