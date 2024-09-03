@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pooling.md",
+                "file": "CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pooling.md",
+                "file": "CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pooling.md"
+                "file": "CNN.md"
               }
             }
           }
@@ -185,11 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eeb0cc5c4c62789",
+  "active": "ed87f174b9bf0d29",
   "lastOpenFiles": [
+    "Pooling.md",
     "CNN.md",
     "Dropout.md",
-    "Pooling.md",
     "ML.md",
     "DL/Перцептроны Румельхарта.md",
     "images/Screenshot from 2024-09-02 18-06-24.png",
