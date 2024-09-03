@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNN.md",
+                "file": "Pooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CNN.md",
+                "file": "Pooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNN.md"
+                "file": "Pooling.md"
               }
             }
           }
@@ -173,13 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed87f174b9bf0d29",
+  "active": "6eeb0cc5c4c62789",
   "lastOpenFiles": [
+    "CNN.md",
     "images/Screenshot from 2024-09-02 18-06-24.png",
     "ML.md",
     "images/Screenshot from 2024-08-14 17-24-59.png",
     "Pooling.md",
-    "CNN.md",
     "images/Screenshot from 2024-09-02 14-44-36.png",
     "images/Screenshot from 2024-09-02 14-37-41.png",
     "images/Screenshot from 2024-09-02 14-28-11.png",
@@ -204,7 +204,6 @@
     "images/Screenshot from 2024-08-22 13-26-57.png",
     "images/Screenshot from 2024-08-22 13-18-54.png",
     "DL/Лютейшая база.md",
-    "images/Screenshot from 2024-08-14 17-19-51.png",
     "conflict-files-obsidian-git.md",
     "images",
     "DL/rmsprop.md",
