@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pooling.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pooling.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pooling.md"
+                "file": "ML.md"
               }
             }
           }
@@ -173,13 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eeb0cc5c4c62789",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
+    "Pooling.md",
     "CNN.md",
     "images/Screenshot from 2024-09-02 18-06-24.png",
     "ML.md",
     "images/Screenshot from 2024-08-14 17-24-59.png",
-    "Pooling.md",
     "images/Screenshot from 2024-09-02 14-44-36.png",
     "images/Screenshot from 2024-09-02 14-37-41.png",
     "images/Screenshot from 2024-09-02 14-28-11.png",
