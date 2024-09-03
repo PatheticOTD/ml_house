@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dropout.md",
+                "file": "CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dropout.md",
+                "file": "CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dropout.md"
+                "file": "CNN.md"
               }
             }
           }
@@ -185,11 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "664e4c0460181d21",
+  "active": "ed87f174b9bf0d29",
   "lastOpenFiles": [
+    "Dropout.md",
     "Pooling.md",
     "ML.md",
-    "Dropout.md",
     "DL/Перцептроны Румельхарта.md",
     "CNN.md",
     "images/Screenshot from 2024-09-02 18-06-24.png",
