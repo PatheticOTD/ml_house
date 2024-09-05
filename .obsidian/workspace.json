@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/adadelta.md",
+                "file": "CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/adadelta.md",
+                "file": "CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/adadelta.md"
+                "file": "CNN.md"
               }
             }
           }
@@ -209,10 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53fafba14b76c68c",
+  "active": "ed87f174b9bf0d29",
   "lastOpenFiles": [
-    "DL/adam.md",
     "DL/adadelta.md",
+    "DL/adam.md",
     "ML.md",
     "CNN.md",
     "Screenshot from 2024-09-05 12-44-03.png",
