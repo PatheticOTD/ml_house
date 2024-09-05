@@ -68,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53fafba14b76c68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/adadelta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/adam.md",
+                "file": "DL/adadelta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/adam.md",
+                "file": "DL/adadelta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/adam.md"
+                "file": "DL/adadelta.md"
               }
             }
           }
@@ -197,8 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89de733da2d55c0c",
+  "active": "53fafba14b76c68c",
   "lastOpenFiles": [
+    "DL/adam.md",
+    "DL/adadelta.md",
     "ML.md",
     "CNN.md",
     "Screenshot from 2024-09-05 12-44-03.png",
@@ -222,8 +236,6 @@
     "DL/Softplus.md",
     "DL/Четыре базовых уравнения для backpropagation.md",
     "DL/Эпоха.md",
-    "DL/adam.md",
-    "DL/adadelta.md",
     "DL/Два предположения, нужных для функции эмпирического риска.md",
     "DL/Hadamard product.md",
     "ML/OLS.md",
