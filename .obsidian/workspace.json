@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "6eeb0cc5c4c62789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pooling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed87f174b9bf0d29",
             "type": "leaf",
             "state": {
@@ -44,45 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "664e4c0460181d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dropout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89de733da2d55c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/adam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53fafba14b76c68c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/adadelta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNN.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CNN.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNN.md"
+                "file": "ML.md"
               }
             }
           }
@@ -209,14 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed87f174b9bf0d29",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
+    "CNN.md",
+    "ML.md",
+    "Pooling.md",
     "DL/adadelta.md",
     "DL/adam.md",
-    "ML.md",
-    "CNN.md",
     "Screenshot from 2024-09-05 12-44-03.png",
-    "Pooling.md",
     "Dropout.md",
     "DL/Перцептроны Румельхарта.md",
     "images/Screenshot from 2024-09-02 18-06-24.png",
