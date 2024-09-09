@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b364aaed3820cc6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/sgd with momentum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NiN.md",
+                "file": "DL/sgd with momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NiN.md",
+                "file": "DL/sgd with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NiN.md"
+                "file": "DL/sgd with momentum.md"
               }
             }
           }
@@ -173,11 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee155b309c0c5d2c",
+  "active": "b364aaed3820cc6a",
   "lastOpenFiles": [
     "ML.md",
-    "CNN.md",
     "NiN.md",
+    "CNN.md",
     "Screenshot from 2024-09-07 17-14-24.png",
     "Pooling.md",
     "DL/adadelta.md",
