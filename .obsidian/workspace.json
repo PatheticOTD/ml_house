@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f12892a93aca14d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Normalization and Standardization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/sgd with momentum.md",
+                "file": "Normalization and Standardization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/sgd with momentum.md",
+                "file": "Normalization and Standardization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/sgd with momentum.md"
+                "file": "Normalization and Standardization.md"
               }
             }
           }
@@ -185,8 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b364aaed3820cc6a",
+  "active": "f12892a93aca14d0",
   "lastOpenFiles": [
+    "DL/sgd with momentum.md",
+    "Normalization and Standardization.md",
     "ML.md",
     "NiN.md",
     "CNN.md",
@@ -204,7 +218,6 @@
     "images/Screenshot from 2024-09-02 14-28-11.png",
     "images/Screenshot from 2024-09-02 14-25-46.png",
     "images/Screenshot from 2024-09-02 14-08-53.png",
-    "DL/sgd with momentum.md",
     "DL/sgd with nesterov momentum.md",
     "python_libs/PyTorch.md",
     "Softmax.md",
