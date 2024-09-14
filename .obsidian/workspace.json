@@ -68,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "553d85858f3c2a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Batch Normalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalization and Standardization.md",
+                "file": "Batch Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normalization and Standardization.md",
+                "file": "Batch Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Normalization and Standardization.md"
+                "file": "Batch Normalization.md"
               }
             }
           }
@@ -197,10 +209,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f12892a93aca14d0",
+  "active": "553d85858f3c2a37",
   "lastOpenFiles": [
-    "DL/sgd with momentum.md",
     "Normalization and Standardization.md",
+    "Batch Normalization.md",
+    "DL/sgd with momentum.md",
     "ML.md",
     "NiN.md",
     "CNN.md",
@@ -235,7 +248,6 @@
     "conflict-files-obsidian-git.md",
     "images",
     "DL/rmsprop.md",
-    "DL/adagrad.md",
     "python_libs",
     "ML",
     "DL"
