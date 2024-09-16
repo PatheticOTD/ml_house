@@ -80,9 +80,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "243218a6d9350506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identity function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batch Normalization.md",
+                "file": "Identity function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batch Normalization.md",
+                "file": "Identity function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batch Normalization.md"
+                "file": "Identity function.md"
               }
             }
           }
@@ -209,11 +221,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "553d85858f3c2a37",
+  "active": "243218a6d9350506",
   "lastOpenFiles": [
+    "Batch Normalization.md",
+    "Identity function.md",
     "Screenshot from 2024-09-14 14-33-10.png",
     "Normalization and Standardization.md",
-    "Batch Normalization.md",
     "DL/sgd with momentum.md",
     "ML.md",
     "NiN.md",
@@ -244,7 +257,6 @@
     "DL/Два предположения, нужных для функции эмпирического риска.md",
     "DL/Hadamard product.md",
     "ML/OLS.md",
-    "images/Screenshot from 2024-08-22 13-44-54.png",
     "DL/Лютейшая база.md",
     "conflict-files-obsidian-git.md",
     "images",
