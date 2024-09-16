@@ -92,9 +92,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f806f737f19978da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ResNet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identity function.md",
+                "file": "ResNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Identity function.md",
+                "file": "ResNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Identity function.md"
+                "file": "ResNet.md"
               }
             }
           }
@@ -221,14 +233,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "243218a6d9350506",
+  "active": "f806f737f19978da",
   "lastOpenFiles": [
-    "Batch Normalization.md",
+    "ML.md",
+    "ResNet.md",
     "Identity function.md",
+    "Batch Normalization.md",
     "Screenshot from 2024-09-14 14-33-10.png",
     "Normalization and Standardization.md",
     "DL/sgd with momentum.md",
-    "ML.md",
     "NiN.md",
     "CNN.md",
     "Screenshot from 2024-09-07 17-14-24.png",
@@ -258,7 +271,6 @@
     "DL/Hadamard product.md",
     "ML/OLS.md",
     "DL/Лютейшая база.md",
-    "conflict-files-obsidian-git.md",
     "images",
     "python_libs",
     "ML",
