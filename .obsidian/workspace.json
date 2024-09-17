@@ -104,9 +104,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fba805b1a68cc4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/adam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNN.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CNN.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNN.md"
+                "file": "ML.md"
               }
             }
           }
@@ -233,23 +244,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed87f174b9bf0d29",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
+    "DL/adam.md",
+    "ML.md",
+    "CNN.md",
     "ResNet.md",
     "Screenshot from 2024-09-16 20-29-06.png",
     "Screenshot from 2024-09-16 20-29-24.png",
-    "ML.md",
     "Identity function.md",
     "Batch Normalization.md",
     "Screenshot from 2024-09-14 14-33-10.png",
     "Normalization and Standardization.md",
     "DL/sgd with momentum.md",
     "NiN.md",
-    "CNN.md",
     "Screenshot from 2024-09-07 17-14-24.png",
     "Pooling.md",
     "DL/adadelta.md",
-    "DL/adam.md",
     "Screenshot from 2024-09-05 12-44-03.png",
     "Dropout.md",
     "DL/Перцептроны Румельхарта.md",
