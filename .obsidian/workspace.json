@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c0506f2638d744d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DenseNet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "DenseNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "DenseNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "DenseNet.md"
               }
             }
           }
@@ -160,11 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "6c0506f2638d744d",
   "lastOpenFiles": [
+    "ML.md",
+    "DenseNet.md",
     "ResNeXt.md",
     "Bottle Neck.md",
-    "ML.md",
     "BotleNeck.md",
     "Screenshot from 2024-09-17 17-33-48.png",
     "L1&L2.md",
@@ -198,7 +212,6 @@
     "DL/Сигмоидальные.md",
     "ML/MLE.md",
     "DL/Softplus.md",
-    "DL/Четыре базовых уравнения для backpropagation.md",
     "images",
     "python_libs",
     "ML",
