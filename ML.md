@@ -34,6 +34,7 @@
 4) [[NiN]]
 5) [[ResNet]]
 6) [[ResNeXt]]
+
 #### Состав метрики:
 1) [[Функция потерь]]
 2) [[Эмпирический риск]]
@@ -64,4 +65,6 @@
 1) [[OLS]]
 2) [[MLE]]
 3) [[Cross Entropy Loss]]
-4) 
+
+#### Honorable mentions:
+1) [[Bottle]]
