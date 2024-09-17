@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DenseNet.md",
+                "file": "Ряд Тейлора.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DenseNet.md",
+                "file": "Ряд Тейлора.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DenseNet.md",
+                "file": "Ряд Тейлора.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DenseNet.md"
+                "file": "Ряд Тейлора.md"
               }
             }
           }
@@ -175,8 +175,10 @@
   },
   "active": "6c0506f2638d744d",
   "lastOpenFiles": [
-    "ML.md",
+    "Pasted image 20240917195203.png",
     "DenseNet.md",
+    "Ряд Тейлора.md",
+    "ML.md",
     "ResNeXt.md",
     "Bottle Neck.md",
     "BotleNeck.md",
@@ -210,8 +212,6 @@
     "Softmax.md",
     "ML/Cross Entropy Loss.md",
     "DL/Сигмоидальные.md",
-    "ML/MLE.md",
-    "DL/Softplus.md",
     "images",
     "python_libs",
     "ML",
