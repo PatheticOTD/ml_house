@@ -67,4 +67,5 @@
 3) [[Cross Entropy Loss]]
 
 #### Honorable mentions:
-1) [[Bottle]]
+1) [[Bottle Neck]]
+2) 
