@@ -116,8 +116,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c72e9c4029fc6da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1&L2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML.md",
+                "file": "L1&L2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML.md",
+                "file": "L1&L2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML.md"
+                "file": "L1&L2.md"
               }
             }
           }
@@ -244,11 +257,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "c72e9c4029fc6da3",
   "lastOpenFiles": [
-    "DL/adam.md",
     "ML.md",
+    "L1&L2.md",
+    "L1/L2.md",
+    "L1",
     "CNN.md",
+    "DL/adam.md",
+    "Dropout.md",
     "ResNet.md",
     "Screenshot from 2024-09-16 20-29-06.png",
     "Screenshot from 2024-09-16 20-29-24.png",
@@ -262,7 +279,6 @@
     "Pooling.md",
     "DL/adadelta.md",
     "Screenshot from 2024-09-05 12-44-03.png",
-    "Dropout.md",
     "DL/Перцептроны Румельхарта.md",
     "images/Screenshot from 2024-09-02 18-06-24.png",
     "images/Screenshot from 2024-08-14 17-24-59.png",
@@ -280,7 +296,6 @@
     "DL/Эпоха.md",
     "DL/Два предположения, нужных для функции эмпирического риска.md",
     "DL/Hadamard product.md",
-    "ML/OLS.md",
     "images",
     "python_libs",
     "ML",
