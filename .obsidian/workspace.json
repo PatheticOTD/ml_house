@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dense blocks.md",
+                "file": "Transition layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dense blocks.md",
+                "file": "Transition layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dense blocks.md",
+                "file": "Transition layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dense blocks.md"
+                "file": "Transition layer.md"
               }
             }
           }
@@ -164,10 +164,11 @@
   "active": "6c0506f2638d744d",
   "lastOpenFiles": [
     "DenseNet.md",
+    "Transition layer.md",
     "Dense blocks.md",
+    "ML.md",
     "Screenshot from 2024-09-17 20-07-26.png",
     "Ряд Тейлора.md",
-    "ML.md",
     "ResNeXt.md",
     "Pasted image 20240917195203.png",
     "Bottle Neck.md",
@@ -199,7 +200,6 @@
     "python_libs/PyTorch.md",
     "Softmax.md",
     "ML/Cross Entropy Loss.md",
-    "DL/Сигмоидальные.md",
     "images",
     "python_libs",
     "ML",
