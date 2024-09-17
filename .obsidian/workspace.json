@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ResNet.md",
+                "file": "CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ResNet.md",
+                "file": "CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ResNet.md"
+                "file": "CNN.md"
               }
             }
           }
@@ -233,12 +233,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f806f737f19978da",
+  "active": "ed87f174b9bf0d29",
   "lastOpenFiles": [
+    "ResNet.md",
     "Screenshot from 2024-09-16 20-29-06.png",
     "Screenshot from 2024-09-16 20-29-24.png",
     "ML.md",
-    "ResNet.md",
     "Identity function.md",
     "Batch Normalization.md",
     "Screenshot from 2024-09-14 14-33-10.png",
@@ -258,7 +258,6 @@
     "images/Screenshot from 2024-09-02 14-44-36.png",
     "images/Screenshot from 2024-09-02 14-37-41.png",
     "images/Screenshot from 2024-09-02 14-28-11.png",
-    "images/Screenshot from 2024-09-02 14-25-46.png",
     "DL/sgd with nesterov momentum.md",
     "python_libs/PyTorch.md",
     "Softmax.md",
