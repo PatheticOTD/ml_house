@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "5b9d4cc12f031035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ResNeXt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6c0506f2638d744d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ряд Тейлора.md",
+                "file": "DenseNet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ряд Тейлора.md",
+                "file": "DenseNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ряд Тейлора.md",
+                "file": "DenseNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ряд Тейлора.md"
+                "file": "DenseNet.md"
               }
             }
           }
@@ -175,11 +163,11 @@
   },
   "active": "6c0506f2638d744d",
   "lastOpenFiles": [
-    "Pasted image 20240917195203.png",
-    "DenseNet.md",
     "Ряд Тейлора.md",
+    "DenseNet.md",
     "ML.md",
     "ResNeXt.md",
+    "Pasted image 20240917195203.png",
     "Bottle Neck.md",
     "BotleNeck.md",
     "Screenshot from 2024-09-17 17-33-48.png",
@@ -206,7 +194,6 @@
     "images/Screenshot from 2024-09-02 18-06-24.png",
     "images/Screenshot from 2024-08-14 17-24-59.png",
     "images/Screenshot from 2024-09-02 14-44-36.png",
-    "images/Screenshot from 2024-09-02 14-37-41.png",
     "DL/sgd with nesterov momentum.md",
     "python_libs/PyTorch.md",
     "Softmax.md",
