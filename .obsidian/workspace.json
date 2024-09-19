@@ -20,33 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6c0506f2638d744d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transition layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5804f6276ba11616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transfer Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transfer Learning.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transfer Learning.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transfer Learning.md"
+                "file": "ML.md"
               }
             }
           }
@@ -173,45 +148,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5804f6276ba11616",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
+    "DL/Dense blocks.md",
+    "DL/Transition layer.md",
+    "images/Pasted image 20240917195203.png",
+    "DL/Batch Normalization.md",
+    "DL/L1&L2.md",
+    "images/Screenshot from 2024-09-05 12-44-03.png",
     "ML.md",
-    "Transfer Learning.md",
-    "Transition layer.md",
+    "DL/Fine Tuning.md",
+    "DL/Transfer Learning.md",
     "DL/Без названия.md",
-    "DenseNet.md",
-    "Dense blocks.md",
-    "Screenshot from 2024-09-17 20-07-26.png",
-    "Ряд Тейлора.md",
-    "ResNeXt.md",
-    "Pasted image 20240917195203.png",
-    "Bottle Neck.md",
+    "DL/DenseNet.md",
+    "images/Screenshot from 2024-09-17 20-07-26.png",
+    "ML/Ряд Тейлора.md",
+    "DL/ResNeXt.md",
+    "DL/Bottle Neck.md",
     "BotleNeck.md",
-    "Screenshot from 2024-09-17 17-33-48.png",
-    "L1&L2.md",
+    "images/Screenshot from 2024-09-17 17-33-48.png",
     "DL/Перцептроны Румельхарта.md",
-    "ResNet.md",
-    "CNN.md",
-    "NiN.md",
+    "DL/ResNet.md",
+    "DL/CNN.md",
+    "DL/NiN.md",
     "DL/sgd with momentum.md",
-    "Batch Normalization.md",
-    "Identity function.md",
+    "DL/Identity function.md",
     "L1/L2.md",
     "L1",
     "DL/adam.md",
-    "Dropout.md",
-    "Screenshot from 2024-09-16 20-29-06.png",
-    "Screenshot from 2024-09-16 20-29-24.png",
-    "Screenshot from 2024-09-14 14-33-10.png",
-    "Normalization and Standardization.md",
-    "Screenshot from 2024-09-07 17-14-24.png",
-    "Pooling.md",
+    "DL/Dropout.md",
+    "images/Screenshot from 2024-09-16 20-29-06.png",
+    "images/Screenshot from 2024-09-16 20-29-24.png",
+    "images/Screenshot from 2024-09-14 14-33-10.png",
+    "ML/Normalization and Standardization.md",
+    "images/Screenshot from 2024-09-07 17-14-24.png",
+    "DL/Pooling.md",
     "DL/adadelta.md",
-    "Screenshot from 2024-09-05 12-44-03.png",
     "images/Screenshot from 2024-09-02 18-06-24.png",
     "images/Screenshot from 2024-08-14 17-24-59.png",
-    "DL/sgd with nesterov momentum.md",
-    "python_libs/PyTorch.md",
     "images",
     "python_libs",
     "ML",
