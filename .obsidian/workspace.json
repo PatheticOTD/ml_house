@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5804f6276ba11616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transfer Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transition layer.md",
+                "file": "Transfer Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transition layer.md",
+                "file": "Transfer Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transition layer.md"
+                "file": "Transfer Learning.md"
               }
             }
           }
@@ -161,11 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c0506f2638d744d",
+  "active": "5804f6276ba11616",
   "lastOpenFiles": [
-    "DL/Без названия.md",
     "ML.md",
+    "Transfer Learning.md",
     "Transition layer.md",
+    "DL/Без названия.md",
     "DenseNet.md",
     "Dense blocks.md",
     "Screenshot from 2024-09-17 20-07-26.png",
@@ -199,7 +212,6 @@
     "images/Screenshot from 2024-08-14 17-24-59.png",
     "DL/sgd with nesterov momentum.md",
     "python_libs/PyTorch.md",
-    "Softmax.md",
     "images",
     "python_libs",
     "ML",
