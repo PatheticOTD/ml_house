@@ -76,4 +76,6 @@
 #### Honorable mentions:
 1) [[Bottle Neck]]
 2) [[Transfer Learning]]
-3) 
+3) [[Batch Normalization]]
+4) [[Normalization and Standardization]]
+5) 
