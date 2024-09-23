@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EfficientNet.md",
+                "file": "ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EfficientNet.md",
+                "file": "ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EfficientNet.md"
+                "file": "ML.md"
               }
             }
           }
@@ -161,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39a62095bbef2683",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
-    "MnasNet.md",
     "EfficientNet.md",
+    "MnasNet.md",
     "ML.md",
     "GoogLeNet.md",
     "Screenshot from 2024-09-19 17-04-44.png",
