@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoogLeNet.md",
+                "file": "MnasNet.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoogLeNet.md",
+                "file": "MnasNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoogLeNet.md",
+                "file": "MnasNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoogLeNet.md"
+                "file": "MnasNet.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "4dea6ea3bfcf6cca",
   "lastOpenFiles": [
-    "Screenshot from 2024-09-19 17-04-44.png",
     "ML.md",
+    "MnasNet.md",
     "GoogLeNet.md",
+    "Screenshot from 2024-09-19 17-04-44.png",
     "DL/Dense blocks.md",
     "DL/Transition layer.md",
     "images/Pasted image 20240917195203.png",
@@ -199,7 +200,6 @@
     "images/Screenshot from 2024-09-07 17-14-24.png",
     "DL/Pooling.md",
     "images/Screenshot from 2024-09-02 18-06-24.png",
-    "images/Screenshot from 2024-08-14 17-24-59.png",
     "images",
     "python_libs",
     "ML",
