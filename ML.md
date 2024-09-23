@@ -36,7 +36,7 @@
 6) [[ResNet]]
 7) [[ResNeXt]]
 8) [[DenseNet]]
-9) [[MnasNet]]
+9) [[EfficientNet]]
 
 #### Состав метрики:
 1) [[Функция потерь]]
