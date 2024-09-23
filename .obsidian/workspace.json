@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "4dea6ea3bfcf6cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MnasNet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "39a62095bbef2683",
             "type": "leaf",
             "state": {
@@ -46,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,9 +163,9 @@
   },
   "active": "39a62095bbef2683",
   "lastOpenFiles": [
-    "ML.md",
-    "EfficientNet.md",
     "MnasNet.md",
+    "EfficientNet.md",
+    "ML.md",
     "GoogLeNet.md",
     "Screenshot from 2024-09-19 17-04-44.png",
     "DL/Dense blocks.md",

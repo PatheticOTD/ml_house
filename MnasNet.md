@@ -1,1 +1,1 @@
-Mobile Neural Architecture Search Network - нейронка, способная подбирать оптималюную нейронку для конкретной задачи
+Mobile Neural Architecture Search Network - нейронка, способная подбирать оптималюную базовую нейронку для конкретной задачи
