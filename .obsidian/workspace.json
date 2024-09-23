@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R-CNN.md",
+                "file": "FAST R-CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R-CNN.md",
+                "file": "FAST R-CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R-CNN.md",
+                "file": "FAST R-CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R-CNN.md"
+                "file": "FAST R-CNN.md"
               }
             }
           }
@@ -175,9 +175,10 @@
   },
   "active": "568ed941d717c5c5",
   "lastOpenFiles": [
-    "ML.md",
     "R-CNN.md",
+    "FAST R-CNN.md",
     "EfficientNet.md",
+    "ML.md",
     "MnasNet.md",
     "GoogLeNet.md",
     "Screenshot from 2024-09-19 17-04-44.png",
@@ -206,7 +207,6 @@
     "L1/L2.md",
     "L1",
     "DL/adam.md",
-    "DL/Dropout.md",
     "images/Screenshot from 2024-09-16 20-29-06.png",
     "images/Screenshot from 2024-09-16 20-29-24.png",
     "images/Screenshot from 2024-09-14 14-33-10.png",
