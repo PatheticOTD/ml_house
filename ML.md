@@ -38,7 +38,10 @@
 8) [[DenseNet]]
 9) [[EfficientNet]]
 Эволюция сетей для object detection:
-1) R-C
+	1) [[R-CNN]]
+	2) [[FAST R-CNN]]
+	3) [[FASTER R-CNN]]
+	4) [[YOLO]]
 #### Состав метрики:
 1) [[Функция потерь]]
 2) [[Эмпирический риск]]
