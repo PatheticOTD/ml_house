@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LabelEncoding.md",
+                "file": "TargetEncoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LabelEncoding.md",
+                "file": "TargetEncoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LabelEncoding.md",
+                "file": "TargetEncoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LabelEncoding.md"
+                "file": "TargetEncoding.md"
               }
             }
           }
@@ -187,8 +187,9 @@
   },
   "active": "b89de7720e610bd3",
   "lastOpenFiles": [
-    "ML&DL.md",
     "LabelEncoding.md",
+    "TargetEncoding.md",
+    "ML&DL.md",
     "OneHotEncoding.md",
     "Screenshot from 2024-09-24 08-08-49.png",
     "EfficientNet.md",
@@ -218,7 +219,6 @@
     "DL/DenseNet.md",
     "images/Screenshot from 2024-09-17 20-07-26.png",
     "ML/Ряд Тейлора.md",
-    "DL/ResNeXt.md",
     "images/Screenshot from 2024-09-17 17-33-48.png",
     "L1",
     "images/Screenshot from 2024-09-16 20-29-06.png",

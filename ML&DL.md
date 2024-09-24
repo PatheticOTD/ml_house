@@ -77,7 +77,7 @@
 #### Энкодинги:
 1) [[OneHotEncoding]]
 2) [[LabelEncoding]]
-3) 
+3) [[TargetEncoding]]
 #### Honorable mentions:
 1) [[Bottle Neck]]
 2) [[Transfer Learning]]
