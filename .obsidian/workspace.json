@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b89de7720e610bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LabelEncoding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OneHotEncoding.md",
+                "file": "LabelEncoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OneHotEncoding.md",
+                "file": "LabelEncoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OneHotEncoding.md"
+                "file": "LabelEncoding.md"
               }
             }
           }
@@ -173,11 +185,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ddfa1d42f8759cb",
+  "active": "b89de7720e610bd3",
   "lastOpenFiles": [
-    "Screenshot from 2024-09-24 08-08-49.png",
     "ML&DL.md",
+    "LabelEncoding.md",
     "OneHotEncoding.md",
+    "Screenshot from 2024-09-24 08-08-49.png",
     "EfficientNet.md",
     "selective search.md",
     "AlexNet.md",
@@ -211,7 +224,6 @@
     "images/Screenshot from 2024-09-16 20-29-06.png",
     "images/Screenshot from 2024-09-16 20-29-24.png",
     "images/Screenshot from 2024-09-14 14-33-10.png",
-    "images/Screenshot from 2024-09-07 17-14-24.png",
     "images",
     "python_libs",
     "ML",
