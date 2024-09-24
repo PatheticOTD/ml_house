@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "39a62095bbef2683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EfficientNet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8ddfa1d42f8759cb",
             "type": "leaf",
             "state": {
@@ -58,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,14 +175,14 @@
   },
   "active": "b89de7720e610bd3",
   "lastOpenFiles": [
-    "TargetEncoding.md",
+    "OneHotEncoding.md",
+    "ML&DL.md",
     "K-FoldTargetEncoding.md",
+    "EfficientNet.md",
+    "TargetEncoding.md",
     "Screenshot from 2024-09-24 08-29-34.png",
     "LabelEncoding.md",
-    "ML&DL.md",
-    "OneHotEncoding.md",
     "Screenshot from 2024-09-24 08-08-49.png",
-    "EfficientNet.md",
     "selective search.md",
     "AlexNet.md",
     "LeNet.md",
