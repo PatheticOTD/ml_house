@@ -73,6 +73,10 @@
 2) [[MLE]]
 3) [[Cross Entropy Loss]]
 
+
+#### Энкодинги:
+1) [[OneHotEncoding]]
+2) 
 #### Honorable mentions:
 1) [[Bottle Neck]]
 2) [[Transfer Learning]]
