@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TargetEncoding.md",
+                "file": "K-FoldTargetEncoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TargetEncoding.md",
+                "file": "K-FoldTargetEncoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TargetEncoding.md",
+                "file": "K-FoldTargetEncoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TargetEncoding.md"
+                "file": "K-FoldTargetEncoding.md"
               }
             }
           }
@@ -187,9 +187,10 @@
   },
   "active": "b89de7720e610bd3",
   "lastOpenFiles": [
+    "TargetEncoding.md",
+    "K-FoldTargetEncoding.md",
     "Screenshot from 2024-09-24 08-29-34.png",
     "LabelEncoding.md",
-    "TargetEncoding.md",
     "ML&DL.md",
     "OneHotEncoding.md",
     "Screenshot from 2024-09-24 08-08-49.png",
@@ -223,7 +224,6 @@
     "L1",
     "images/Screenshot from 2024-09-16 20-29-06.png",
     "images/Screenshot from 2024-09-16 20-29-24.png",
-    "images/Screenshot from 2024-09-14 14-33-10.png",
     "images",
     "python_libs",
     "ML",
