@@ -1,5 +1,6 @@
 #### Немного питоновских библиотек:
 1) [[PyTorch]]
+2) [[Catboost library]]
 
 #### Алгоритмы кластеризации:
 1) [[K-means]]
@@ -7,6 +8,7 @@
 #### Бустинги:
 1) [[AdaBoost]]
 2) [[GBM]]
+3) [[Catboost algorithm]]
 
 [[Строение нейрона]]
 #### Типы нейронов:
@@ -78,6 +80,7 @@
 1) [[OneHotEncoding]]
 2) [[LabelEncoding]]
 3) [[TargetEncoding]]
+4) [[CatboostEncoding]]
 #### Honorable mentions:
 1) [[Bottle Neck]]
 2) [[Transfer Learning]]

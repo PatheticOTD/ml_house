@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "b89de7720e610bd3",
+            "id": "4cb6013db4a2a269",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K-FoldTargetEncoding.md",
+                "file": "Catboost algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K-FoldTargetEncoding.md",
+                "file": "Catboost algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K-FoldTargetEncoding.md",
+                "file": "Catboost algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K-FoldTargetEncoding.md"
+                "file": "Catboost algorithm.md"
               }
             }
           }
@@ -173,12 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b89de7720e610bd3",
+  "active": "4cb6013db4a2a269",
   "lastOpenFiles": [
-    "TargetEncoding.md",
-    "K-FoldTargetEncoding.md",
-    "OneHotEncoding.md",
+    "Catboost library.md",
+    "Catboost algorithm.md",
     "ML&DL.md",
+    "K-FoldTargetEncoding.md",
+    "TargetEncoding.md",
+    "OneHotEncoding.md",
     "EfficientNet.md",
     "Screenshot from 2024-09-24 08-29-34.png",
     "LabelEncoding.md",
@@ -205,8 +207,6 @@
     "DL/L1&L2.md",
     "images/Screenshot from 2024-09-05 12-44-03.png",
     "DL/Fine Tuning.md",
-    "DL/Transfer Learning.md",
-    "DL/DenseNet.md",
     "images/Screenshot from 2024-09-17 20-07-26.png",
     "images/Screenshot from 2024-09-17 17-33-48.png",
     "L1",
