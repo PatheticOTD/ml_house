@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catboost algorithm.md",
+                "file": "Cosine Similarity.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catboost algorithm.md",
+                "file": "Cosine Similarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catboost algorithm.md",
+                "file": "Cosine Similarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catboost algorithm.md"
+                "file": "Cosine Similarity.md"
               }
             }
           }
@@ -175,9 +175,10 @@
   },
   "active": "4cb6013db4a2a269",
   "lastOpenFiles": [
+    "Catboost algorithm.md",
+    "Cosine Similarity.md",
     "bins.md",
     "CatboostEncoding.md",
-    "Catboost algorithm.md",
     "ML&DL.md",
     "OneHotEncoding.md",
     "Catboost library.md",
@@ -205,7 +206,6 @@
     "DL/Dense blocks.md",
     "DL/Transition layer.md",
     "images/Pasted image 20240917195203.png",
-    "DL/Batch Normalization.md",
     "images/Screenshot from 2024-09-05 12-44-03.png",
     "images/Screenshot from 2024-09-17 20-07-26.png",
     "images/Screenshot from 2024-09-17 17-33-48.png",
