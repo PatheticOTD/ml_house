@@ -4,5 +4,6 @@ A*B= |A|*|B|*cos(\theta)
 $$
 косинус будет равен:
 $$
-cos(\theta) = 
+cos(\theta) = \frac{A*B}{|A|*|B|}
 $$
+
