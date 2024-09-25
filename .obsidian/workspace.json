@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivious Decision Trees.md",
+                "file": "Catboost algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivious Decision Trees.md",
+                "file": "Catboost algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivious Decision Trees.md",
+                "file": "Catboost algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivious Decision Trees.md"
+                "file": "Catboost algorithm.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   },
   "active": "4cb6013db4a2a269",
   "lastOpenFiles": [
-    "Catboost algorithm.md",
     "Oblivious Decision Trees.md",
+    "Catboost algorithm.md",
     "Cosine Similarity.md",
     "CatboostEncoding.md",
     "ML&DL.md",
