@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CatboostEncoding.md",
+                "file": "Catboost algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CatboostEncoding.md",
+                "file": "Catboost algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CatboostEncoding.md"
+                "file": "Catboost algorithm.md"
               }
             }
           }
@@ -173,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dfc8700f224ac13",
+  "active": "4cb6013db4a2a269",
   "lastOpenFiles": [
+    "CatboostEncoding.md",
     "ML&DL.md",
     "Catboost algorithm.md",
-    "CatboostEncoding.md",
     "OneHotEncoding.md",
     "Catboost library.md",
     "K-FoldTargetEncoding.md",
