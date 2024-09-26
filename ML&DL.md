@@ -74,6 +74,8 @@
 1) [[OLS]]
 2) [[MLE]]
 3) [[Cross Entropy Loss]]
+4) [[mAP]]
+5) 
 
 
 #### Энкодинги:
