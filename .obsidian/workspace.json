@@ -80,9 +80,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1275c8100a83f673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/Pooling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "716324850a262e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/Перцептроны.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -148,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoogLeNet.md",
+                "file": "DL/Перцептроны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoogLeNet.md",
+                "file": "DL/Перцептроны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoogLeNet.md"
+                "file": "DL/Перцептроны.md"
               }
             }
           }
@@ -209,9 +233,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2add37be0ab5ff7",
+  "active": "716324850a262e0c",
   "lastOpenFiles": [
     "ML&DL.md",
+    "DL/Pooling.md",
+    "GoogLeNet.md",
     "mAP.md",
     "YOLO.md",
     "Catboost algorithm.md",
@@ -238,8 +264,6 @@
     "1_JniWRt-ceWLNlkOULjhdpg.webp",
     "FAST R-CNN.md",
     "R-CNN.md",
-    "MnasNet.md",
-    "GoogLeNet.md",
     "Screenshot from 2024-09-19 17-04-44.png",
     "images/Pasted image 20240917195203.png",
     "images/Screenshot from 2024-09-05 12-44-03.png",
