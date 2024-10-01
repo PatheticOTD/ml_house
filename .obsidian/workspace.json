@@ -68,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2add37be0ab5ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoogLeNet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mAP.md",
+                "file": "GoogLeNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mAP.md",
+                "file": "GoogLeNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mAP.md"
+                "file": "GoogLeNet.md"
               }
             }
           }
@@ -197,7 +209,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a06f272ee386bbe6",
+  "active": "d2add37be0ab5ff7",
   "lastOpenFiles": [
     "ML&DL.md",
     "mAP.md",
