@@ -22,91 +22,19 @@
             }
           },
           {
-            "id": "4cb6013db4a2a269",
+            "id": "d470b2b4925550a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catboost algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dfc8700f224ac13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CatboostEncoding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5b070154455ce22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YOLO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a06f272ee386bbe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2add37be0ab5ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoogLeNet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1275c8100a83f673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/Pooling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "716324850a262e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/Перцептроны.md",
+                "file": "FaceNet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL/Перцептроны.md",
+                "file": "FaceNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL/Перцептроны.md",
+                "file": "FaceNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL/Перцептроны.md"
+                "file": "FaceNet.md"
               }
             }
           }
@@ -233,14 +161,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "716324850a262e0c",
+  "active": "d470b2b4925550a7",
   "lastOpenFiles": [
     "ML&DL.md",
-    "DL/Pooling.md",
+    "FaceNet.md",
+    "DL/Перцептроны.md",
+    "Catboost algorithm.md",
     "GoogLeNet.md",
+    "DL/Pooling.md",
     "mAP.md",
     "YOLO.md",
-    "Catboost algorithm.md",
     "Oblivious Decision Trees.md",
     "Cosine Similarity.md",
     "CatboostEncoding.md",
@@ -262,8 +192,6 @@
     "DL/Без названия.md",
     "FASTER R-CNN.md",
     "1_JniWRt-ceWLNlkOULjhdpg.webp",
-    "FAST R-CNN.md",
-    "R-CNN.md",
     "Screenshot from 2024-09-19 17-04-44.png",
     "images/Pasted image 20240917195203.png",
     "images/Screenshot from 2024-09-05 12-44-03.png",
