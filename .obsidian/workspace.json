@@ -50,21 +50,8 @@
               "icon": "lucide-file",
               "title": "K-FoldTargetEncoding"
             }
-          },
-          {
-            "id": "09e257eff4781efd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +73,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -197,19 +184,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "09e257eff4781efd",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
+    "FaceNet.md",
+    "K-FoldTargetEncoding.md",
     "TargetEncoding.md",
     "LabelEncoding.md",
-    "FaceNet.md",
     "ML&DL.md",
     "Screenshot from 2024-10-01 18-00-11.png",
     "Screenshot from 2024-10-01 17-46-38.png",
@@ -226,7 +214,6 @@
     "bins.md",
     "OneHotEncoding.md",
     "Catboost library.md",
-    "K-FoldTargetEncoding.md",
     "EfficientNet.md",
     "Screenshot from 2024-09-24 08-29-34.png",
     "Screenshot from 2024-09-24 08-08-49.png",
