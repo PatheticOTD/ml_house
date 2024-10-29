@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "ML&DL"
             }
-          },
-          {
-            "id": "ab53d14b86b2e55b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tf-idf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tf-idf"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,10 +165,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ab53d14b86b2e55b",
+  "active": "55f992cf06eced37",
   "lastOpenFiles": [
-    "ML&DL.md",
     "tf-idf.md",
+    "ML&DL.md",
     "FaceNet.md",
     "K-FoldTargetEncoding.md",
     "Токен.md",
