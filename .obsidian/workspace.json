@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "ML&DL"
             }
+          },
+          {
+            "id": "38198413f357f239",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "55f992cf06eced37",
+  "active": "38198413f357f239",
   "lastOpenFiles": [
     "tf-idf.md",
     "ML&DL.md",
