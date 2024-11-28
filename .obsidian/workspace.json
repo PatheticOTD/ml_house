@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "38198413f357f239",
+            "id": "150a6e585ca043a2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Word Normalixation.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Word Normalixation"
             }
           }
         ],
@@ -178,13 +180,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "38198413f357f239",
+  "active": "150a6e585ca043a2",
   "lastOpenFiles": [
-    "tf-idf.md",
     "ML&DL.md",
+    "Word Normalixation.md",
+    "Токен.md",
+    "Unigram Language Modeling.md",
+    "Byte-Pair Encoding.md",
+    "Token learner.md",
+    "Token segmenter.md",
+    "Tocken learner.md",
+    "text normalization.md",
+    "word types & word instances.md",
+    "ML/K-means.md",
+    "disfluences.md",
+    "tf-idf.md",
     "FaceNet.md",
     "K-FoldTargetEncoding.md",
-    "Токен.md",
     "bag-of-words.md",
     "TargetEncoding.md",
     "LabelEncoding.md",
@@ -199,18 +211,8 @@
     "YOLO.md",
     "Oblivious Decision Trees.md",
     "Cosine Similarity.md",
-    "CatboostEncoding.md",
-    "bins.md",
-    "OneHotEncoding.md",
-    "Catboost library.md",
-    "EfficientNet.md",
     "Screenshot from 2024-09-24 08-29-34.png",
     "Screenshot from 2024-09-24 08-08-49.png",
-    "selective search.md",
-    "AlexNet.md",
-    "LeNet.md",
-    "DL/Перцептроны Румельхарта.md",
-    "Карта активации.md",
     "1_JniWRt-ceWLNlkOULjhdpg.webp",
     "Screenshot from 2024-09-19 17-04-44.png",
     "images/Pasted image 20240917195203.png",

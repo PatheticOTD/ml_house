@@ -46,8 +46,18 @@
 2) beautifulSoup
 #### общее
 1) [[Токен]]
-2) [[bag-of-words]]
-3) [[tf-idf]]
+2) [[disfluences]]
+3) [[word types & word instances]]
+4) [[text normalization]]
+5) [[bag-of-words]]
+6) [[tf-idf]]
+
+Виды токенизаций:
+1) [[Byte-Pair Encoding]]
+2) [[Unigram Language Modeling]]
+[[Word Normalixation]]
+[[Lemmatization]]
+[[Stemming]]
 ### Остальное:
 #### Состав метрики:
 1) [[Функция потерь]]
