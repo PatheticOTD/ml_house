@@ -58,6 +58,13 @@
 [[Word Normalixation]]
 [[Lemmatization]]
 [[Stemming]]
+[[Sentence Segmentation]]
+[[Minimum Edit Distance]]
+
+Language Models:
+1) [[N-gram model]]:
+		1.1)  [[Markov Chain]]
+2) 
 ### Остальное:
 #### Состав метрики:
 1) [[Функция потерь]]
