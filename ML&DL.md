@@ -61,10 +61,18 @@
 [[Sentence Segmentation]]
 [[Minimum Edit Distance]]
 
+Vector Semantics and Embeddings:
+1) [[tf-idf]]
+2) [[word2vec]]
+3) [[cosine]]
+
 Language Models:
 1) [[N-gram model]]:
 		1.1)  [[Markov Chain]]
-2) 
+
+Оценка эффективности языковых моделей:
+1) [[Extrinsic evaluation]]
+2) [[Intrinsic evaluation]]
 ### Остальное:
 #### Состав метрики:
 1) [[Функция потерь]]
