@@ -41,16 +41,11 @@
 
 
 ### NLP:
-#### либы:
-1) NLTK
-2) beautifulSoup
 #### общее
 1) [[Токен]]
 2) [[disfluences]]
 3) [[word types & word instances]]
 4) [[text normalization]]
-5) [[bag-of-words]]
-6) [[tf-idf]]
 
 Виды токенизаций:
 1) [[Byte-Pair Encoding]]
@@ -62,13 +57,18 @@
 [[Minimum Edit Distance]]
 
 Vector Semantics and Embeddings:
-1) [[tf-idf]]
-2) [[word2vec]]
-3) [[cosine]]
+1) [[bag-of-words]]
+2) [[tf-idf]]
+3) [[word2vec]]
+4) [[cosine]]
+5) [[PPMI]]
 
 Language Models:
 1) [[N-gram model]]:
 		1.1)  [[Markov Chain]]
+2) [[MLP for NLP]]
+3) [[RNN]]
+4) [[LSTM]]
 
 Оценка эффективности языковых моделей:
 1) [[Extrinsic evaluation]]
