@@ -242,8 +242,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faf8123b5c83def8",
+  "active": "7edefe356ce3f020",
   "lastOpenFiles": [
+    "nlp_intro.pdf",
     "DL/Transformers.md",
     "Pasted image 20250120124621.png",
     "Positional embedding.md",
@@ -257,7 +258,6 @@
     "DL/Multi-head Attention.md",
     "DL/Layer Norm.md",
     "images/Pasted image 20250120095033.png",
-    "nlp_intro.pdf",
     "images/Pasted image 20250118193252.png",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "mml-book.pdf",
