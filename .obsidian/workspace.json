@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "483e43684fd57588",
@@ -242,11 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faf8123b5c83def8",
+  "active": "f6ab3d62b2a3feaa",
   "lastOpenFiles": [
+    "nlp_intro.pdf",
     "DL/Transformers.md",
     "Pasted image 20250120130318.png",
-    "nlp_intro.pdf",
     "Pasted image 20250120124621.png",
     "Positional embedding.md",
     "Pasted image 20250120114101.png",
