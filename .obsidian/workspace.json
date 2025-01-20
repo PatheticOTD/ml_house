@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/Transformers.md",
+                "file": "Positional encoding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformers"
+              "title": "Positional encoding"
             }
           },
           {
@@ -244,8 +244,8 @@
   },
   "active": "7edefe356ce3f020",
   "lastOpenFiles": [
-    "Positional encoding.md",
     "ML&DL.md",
+    "Positional encoding.md",
     "DL/Transformers.md",
     "DL/Masking out the future.md",
     "images/Pasted image 20250120111710.png",
