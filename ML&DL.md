@@ -62,7 +62,7 @@
 3) [[word2vec]]
 4) [[cosine]]
 5) [[PPMI]]
-6) [[Positional encoding]]
+6) [[Positional embedding]]
 
 #### Language Models:
 1) [[N-gram model]]:
