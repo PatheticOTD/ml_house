@@ -47,7 +47,7 @@
 3) [[word types & word instances]]
 4) [[text normalization]]
 
-Виды токенизаций:
+#### Виды токенизаций:
 1) [[Byte-Pair Encoding]]
 2) [[Unigram Language Modeling]]
 [[Word Normalixation]]
@@ -56,19 +56,20 @@
 [[Sentence Segmentation]]
 [[Minimum Edit Distance]]
 
-Vector Semantics and Embeddings:
+#### Vector Semantics and Embeddings:
 1) [[bag-of-words]]
 2) [[tf-idf]]
 3) [[word2vec]]
 4) [[cosine]]
 5) [[PPMI]]
 
-Language Models:
+#### Language Models:
 1) [[N-gram model]]:
 		1.1)  [[Markov Chain]]
 2) [[MLP for NLP]]
 3) [[RNN]]
-4) [[LSTM]]
+	1) [[LSTM]]
+4) [[Transformers]]
 
 Оценка эффективности языковых моделей:
 1) [[Extrinsic evaluation]]
