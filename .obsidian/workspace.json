@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "483e43684fd57588",
@@ -242,13 +242,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6ab3d62b2a3feaa",
+  "active": "7edefe356ce3f020",
   "lastOpenFiles": [
+    "Positional embedding.md",
     "Pasted image 20250120114101.png",
     "Pasted image 20250120114029.png",
     "Pasted image 20250120113717.png",
     "DL/Transformers.md",
-    "Positional embedding.md",
     "ML&DL.md",
     "DL/Masking out the future.md",
     "images/Pasted image 20250120111710.png",
@@ -273,7 +273,6 @@
     "Mathematics for machine learning",
     "DL/LSTM.md",
     "images/Pasted image 20250106132129.png",
-    "images/Pasted image 20250118123359.png",
     "cards/English.md",
     "cards",
     "DL/RNN.md",
