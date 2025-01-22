@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "483e43684fd57588",
@@ -242,8 +242,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "f6ab3d62b2a3feaa",
   "lastOpenFiles": [
+    "DL/Multi-head Attention.md",
     "DL/Transformers.md",
     "nlp_intro.pdf",
     "Positional embedding.md",
@@ -256,7 +257,6 @@
     "DL/Masking out the future.md",
     "images/Pasted image 20250120111710.png",
     "DL/Self-Attention.md",
-    "DL/Multi-head Attention.md",
     "DL/Layer Norm.md",
     "images/Pasted image 20250120095033.png",
     "images/Pasted image 20250118193252.png",
