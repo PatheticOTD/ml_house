@@ -257,14 +257,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "27747d59570cbba4",
   "lastOpenFiles": [
+    "DL/CNN.md",
+    "DL/Pooling.md",
     "ML&DL.md",
+    "DL/Transformers.md",
     "Positional embedding.md",
     "mml-book.pdf",
     "nlp_intro.pdf",
     "DL/Multi-head Attention.md",
-    "DL/Transformers.md",
     "Pasted image 20250120130318.png",
     "Pasted image 20250120124621.png",
     "Pasted image 20250120114101.png",
@@ -298,7 +300,6 @@
     "DL/term-term matrix.md",
     "DL/tf-idf.md",
     "skip-gram with negative sampling.md",
-    "DL/term-document.md",
     "git_ssh.pub",
     "git_ssh",
     "L1",
