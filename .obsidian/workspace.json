@@ -38,7 +38,8 @@
               "title": "Transformers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "483e43684fd57588",
@@ -237,14 +238,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "27747d59570cbba4",
   "lastOpenFiles": [
+    "python_libs/PyTorch.md",
+    "ML&DL.md",
     "DL/Multi-head Attention.md",
     "Positional embedding.md",
     "DL/Transformers.md",
     "DL/CNN.md",
     "DL/Pooling.md",
-    "ML&DL.md",
     "mml-book.pdf",
     "nlp_intro.pdf",
     "Pasted image 20250120130318.png",
@@ -279,7 +281,6 @@
     "DL/cosine.md",
     "DL/term-term matrix.md",
     "DL/tf-idf.md",
-    "skip-gram with negative sampling.md",
     "git_ssh.pub",
     "git_ssh",
     "L1",
