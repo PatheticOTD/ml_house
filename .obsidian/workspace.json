@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "483e43684fd57588",
@@ -262,8 +262,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "27747d59570cbba4",
   "lastOpenFiles": [
+    "nlp_intro.pdf",
     "python_libs/PyTorch.md",
     "ML&DL.md",
     "DL/Multi-head Attention.md",
@@ -272,7 +273,6 @@
     "DL/CNN.md",
     "DL/Pooling.md",
     "mml-book.pdf",
-    "nlp_intro.pdf",
     "Pasted image 20250120130318.png",
     "Pasted image 20250120124621.png",
     "Pasted image 20250120114101.png",
@@ -304,7 +304,6 @@
     "DL/MLP for NLP.md",
     "DL/cosine.md",
     "DL/term-term matrix.md",
-    "DL/tf-idf.md",
     "git_ssh.pub",
     "git_ssh",
     "L1",
