@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 46.12171837708831,
+        "dimension": 51.30813953488372,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -68,7 +68,7 @@
       {
         "id": "483e43684fd57588",
         "type": "tabs",
-        "dimension": 53.87828162291169,
+        "dimension": 48.69186046511628,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -262,11 +262,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27747d59570cbba4",
+  "active": "faf8123b5c83def8",
   "lastOpenFiles": [
-    "nlp_intro.pdf",
-    "Transformer,_full_architecture 1.png",
+    "mml-book.pdf",
     "DL/Transformers.md",
+    "nlp_intro.pdf",
+    "transformer_architecture.png",
+    "Transformer,_full_architecture 1.png",
     "Transformer,_full_architecture.jpg",
     "Transformer,_full_architecture.png",
     "python_libs/PyTorch.md",
@@ -275,7 +277,6 @@
     "Positional embedding.md",
     "DL/CNN.md",
     "DL/Pooling.md",
-    "mml-book.pdf",
     "Pasted image 20250120130318.png",
     "Pasted image 20250120124621.png",
     "Pasted image 20250120114101.png",
@@ -285,7 +286,6 @@
     "images/Pasted image 20250120111710.png",
     "DL/Self-Attention.md",
     "DL/Layer Norm.md",
-    "images/Pasted image 20250120095033.png",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Linear Algebra/Matrix.md",
     "Mathematics for machine learning/Linear Algebra/Summation.md",
