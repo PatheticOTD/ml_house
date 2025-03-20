@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/Transformers.md",
+                "file": "DL/Multi-head Attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformers"
+              "title": "Multi-head Attention"
             }
           },
           {
@@ -263,11 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faf8123b5c83def8",
+  "active": "27747d59570cbba4",
   "lastOpenFiles": [
-    "mml-book.pdf",
     "DL/Transformers.md",
     "nlp_intro.pdf",
+    "mml-book.pdf",
     "transformer_architecture.png",
     "Transformer,_full_architecture 1.png",
     "Transformer,_full_architecture.jpg",
