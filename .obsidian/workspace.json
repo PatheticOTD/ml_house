@@ -265,6 +265,7 @@
   },
   "active": "42d717bfb956689c",
   "lastOpenFiles": [
+    "DL/Multi-head Attention.md",
     "DL/Transformers.md",
     "nlp_intro.pdf",
     "mml-book.pdf",
@@ -274,7 +275,6 @@
     "Transformer,_full_architecture.png",
     "python_libs/PyTorch.md",
     "ML&DL.md",
-    "DL/Multi-head Attention.md",
     "Positional embedding.md",
     "DL/CNN.md",
     "DL/Pooling.md",
