@@ -1,1 +1,1 @@
-Gaussian Error Linear Units - активационная функция $x\$
+Gaussian Error Linear Units - активационная функция $x\Phi(x)$, где $\Phi(x)$ - стандартная кумулятивная функция Гауссианского распределения: 
