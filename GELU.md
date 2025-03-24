@@ -1,0 +1,1 @@
+Gaussian Error Linear Units - активационная функция $x\$
