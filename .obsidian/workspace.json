@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Cross Entropy Loss.md",
+                "file": "ML/MLE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross Entropy Loss"
+              "title": "MLE"
             }
           },
           {
@@ -269,6 +269,10 @@
   },
   "active": "8607400cc05b5f9f",
   "lastOpenFiles": [
+    "DL/Entropy.md",
+    "DL/Multi-head Attention.md",
+    "ML/MLE.md",
+    "ML/Cross Entropy Loss.md",
     "ML&DL.md",
     "GELU.md",
     "DL/Transfer Learning.md",
@@ -277,7 +281,6 @@
     "Screenshot From 2025-03-24 12-54-12 1.png",
     "Screenshot From 2025-03-24 12-54-12.png",
     "Pasted image 20250324125452.png",
-    "DL/Multi-head Attention.md",
     "DL/Transformers.md",
     "mml-book.pdf",
     "transformer_architecture.png",
@@ -307,9 +310,6 @@
     "cards",
     "DL/RNN.md",
     "DL/word2vec.md",
-    "DL/PPMI.md",
-    "DL/MLP for NLP.md",
-    "DL/cosine.md",
     "git_ssh.pub",
     "git_ssh",
     "L1",
