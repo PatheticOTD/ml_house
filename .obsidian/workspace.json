@@ -66,8 +66,7 @@
               "title": "GELU"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "483e43684fd57588",
@@ -267,8 +266,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "nlp_intro.pdf",
     "DL/Entropy.md",
     "DL/Multi-head Attention.md",
     "ML/MLE.md",
@@ -276,7 +276,6 @@
     "ML&DL.md",
     "GELU.md",
     "DL/Transfer Learning.md",
-    "nlp_intro.pdf",
     "Screenshot From 2025-03-24 12-46-20.png",
     "Screenshot From 2025-03-24 12-54-12 1.png",
     "Screenshot From 2025-03-24 12-54-12.png",
@@ -309,7 +308,6 @@
     "cards/English.md",
     "cards",
     "DL/RNN.md",
-    "DL/word2vec.md",
     "git_ssh.pub",
     "git_ssh",
     "L1",
