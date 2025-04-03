@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 51.30813953488372,
+        "dimension": 39.02147971360382,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -86,7 +86,7 @@
       {
         "id": "483e43684fd57588",
         "type": "tabs",
-        "dimension": 48.69186046511628,
+        "dimension": 60.978520286396176,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -296,11 +296,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e33b38d937aa72a2",
+  "active": "b5791bce75da96fc",
   "lastOpenFiles": [
+    "байесовская статистика.pdf",
     "Баесовские рассуждения.md",
     "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
-    "байесовская статистика.pdf",
     "ML&DL.md",
     "DL/GELU.md",
     "Mathematics for machine learning/Bayesian statistics",
@@ -340,7 +340,6 @@
     "DL/LSTM.md",
     "cards/English.md",
     "cards",
-    "DL/RNN.md",
     "git_ssh.pub",
     "git_ssh",
     "L1"
