@@ -130,8 +130,7 @@
               "title": "байесовская статистика"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,7 +295,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "faf8123b5c83def8",
   "lastOpenFiles": [
     "mml-book.pdf",
     "байесовская статистика.pdf",
