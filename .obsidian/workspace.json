@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiplication.md",
+                "file": "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplication"
+              "title": "Баесовская статистика"
             }
           },
           {
@@ -298,13 +298,15 @@
   },
   "active": "b5791bce75da96fc",
   "lastOpenFiles": [
+    "Mathematics for machine learning/Linear Algebra/Multiplication.md",
+    "images/Pasted image 20250414110336.png",
+    "Mathematics for machine learning/Linear Algebra/Matrix.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
-    "Multiplication.md",
     "Mathematics for machine learning/Linear Algebra/Summation.md",
     "mml-book.pdf",
     "nlp_intro.pdf",
     "байесовская статистика.pdf",
-    "Баесовские рассуждения.md",
+    "Mathematics for machine learning/Bayesian statistics/Баесовские рассуждения.md",
     "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
     "ML&DL.md",
     "DL/GELU.md",
@@ -325,21 +327,18 @@
     "images/Transformer,_full_architecture.jpg",
     "images/Transformer,_full_architecture.png",
     "python_libs/PyTorch.md",
-    "Positional embedding.md",
+    "DL/Positional embedding.md",
     "DL/CNN.md",
     "DL/Pooling.md",
-    "images/Pasted image 20250120130318.png",
     "DL/Masking out the future.md",
     "DL/Self-Attention.md",
     "DL/Layer Norm.md",
-    "Mathematics for machine learning/Linear Algebra/Matrix.md",
     "Mathematics for machine learning/Linear Algebra",
     "DL/MML.md",
     "Mathematics for machine learning/Linear Algebra/Vector.md",
     "DL/Attension.md",
     "Mathematics for machine learning",
     "DL/LSTM.md",
-    "cards/English.md",
     "cards",
     "git_ssh.pub",
     "git_ssh",
