@@ -254,8 +254,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8607400cc05b5f9f",
+  "active": "a8497c31de7976f2",
   "lastOpenFiles": [
+    "images/Pasted image 20250414115329.png",
     "ML/MLE.md",
     "DL/Multi-head Attention.md",
     "DL/GELU.md",
@@ -296,7 +297,6 @@
     "Mathematics for machine learning/Linear Algebra",
     "DL/MML.md",
     "Mathematics for machine learning/Linear Algebra/Vector.md",
-    "DL/Attension.md",
     "Mathematics for machine learning",
     "cards",
     "git_ssh.pub",
