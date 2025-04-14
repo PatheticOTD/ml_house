@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 64.02147971360382,
+        "dimension": 36.51551312649165,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for machine learning/Linear Algebra/Multiplication.md",
+                "file": "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplication"
+              "title": "Linear Algebra"
             }
           }
         ],
@@ -44,7 +44,7 @@
       {
         "id": "483e43684fd57588",
         "type": "tabs",
-        "dimension": 35.97852028639618,
+        "dimension": 63.48448687350835,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -254,8 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8497c31de7976f2",
+  "active": "8607400cc05b5f9f",
   "lastOpenFiles": [
+    "mml-book.pdf",
+    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
+    "Mathematics for machine learning/Linear Algebra/Multiplication.md",
     "images/Pasted image 20250414115329.png",
     "ML/MLE.md",
     "DL/Multi-head Attention.md",
@@ -265,12 +268,9 @@
     "DL/mAP.md",
     "python_libs/PyTorch.md",
     "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
-    "Mathematics for machine learning/Linear Algebra/Multiplication.md",
     "images/Pasted image 20250414110336.png",
     "Mathematics for machine learning/Linear Algebra/Matrix.md",
-    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Linear Algebra/Summation.md",
-    "mml-book.pdf",
     "nlp_intro.pdf",
     "байесовская статистика.pdf",
     "Mathematics for machine learning/Bayesian statistics/Баесовские рассуждения.md",
@@ -287,7 +287,6 @@
     "images/transformer_architecture.png",
     "images/Transformer,_full_architecture 1.png",
     "images/Transformer,_full_architecture.jpg",
-    "images/Transformer,_full_architecture.png",
     "DL/Positional embedding.md",
     "DL/CNN.md",
     "DL/Pooling.md",
