@@ -6,4 +6,5 @@
 ### Операции над элементами:
 1. [[Summation]]
 2. [[Multiplication]]
-3. 
+3. [[Inverse and transpose]]
+4. 
