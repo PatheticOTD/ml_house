@@ -115,9 +115,7 @@
 2) [[LabelEncoding]]
 3) [[TargetEncoding]]
 4) [[CatboostEncoding]]
-#### Немного питоновских библиотек:
-1) [[PyTorch]]
-2) [[Catboost library]]
+
 #### Регуляризация 
 1) [[L1&L2]]
 2) [[Dropout]]
