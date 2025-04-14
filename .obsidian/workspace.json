@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverse and transpose.md",
+                "file": "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inverse and transpose"
+              "title": "Linear Algebra"
             }
           }
         ],
@@ -256,8 +256,8 @@
   },
   "active": "8607400cc05b5f9f",
   "lastOpenFiles": [
-    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Inverse and transpose.md",
+    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "mml-book.pdf",
     "Mathematics for machine learning/Linear Algebra/Multiplication.md",
     "images/Pasted image 20250414115329.png",

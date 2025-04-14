@@ -7,4 +7,5 @@
 1. [[Summation]]
 2. [[Multiplication]]
 3. [[Inverse and transpose]]
-4. 
+
+
