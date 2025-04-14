@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Баесовские рассуждения.md",
+                "file": "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Баесовские рассуждения"
+              "title": "Linear Algebra"
             }
           },
           {
@@ -130,7 +130,8 @@
               "title": "байесовская статистика"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,9 +296,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "b5791bce75da96fc",
   "lastOpenFiles": [
     "mml-book.pdf",
+    "nlp_intro.pdf",
     "байесовская статистика.pdf",
     "Баесовские рассуждения.md",
     "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
@@ -306,7 +308,6 @@
     "Mathematics for machine learning/Bayesian statistics",
     "images/Screenshot From 2025-03-24 12-46-20.png",
     "images/Pasted image 20250120113717.png",
-    "nlp_intro.pdf",
     "DL/Entropy.md",
     "DL/Multi-head Attention.md",
     "ML/MLE.md",

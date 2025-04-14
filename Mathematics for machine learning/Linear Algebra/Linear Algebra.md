@@ -6,3 +6,4 @@
 ### Операции над элементами:
 1. [[Summation]]
 2. [[Multiplication]]
+3. 
