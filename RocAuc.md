@@ -1,0 +1,1 @@
+Roc (Receiver Operator Characteristic) - Это двумерный график, состоящий из True Positive Rate (Sensitivity)

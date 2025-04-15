@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "483e43684fd57588",
@@ -296,13 +296,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8aa5c9ee5c074c73",
+  "active": "ec6561f5c8100fc8",
   "lastOpenFiles": [
+    "Recall and Precision.md",
     "F1.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "RocAuc.md",
     "Untitled.md",
-    "Recall and Precision.md",
     "ML&DL.md",
     "mml-book.pdf",
     "Inverse and transpose.md",
