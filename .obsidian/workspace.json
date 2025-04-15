@@ -95,20 +95,6 @@
             }
           },
           {
-            "id": "3d59fe7aa273ec8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/Entropy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entropy"
-            }
-          },
-          {
             "id": "67dc527ad18b8557",
             "type": "leaf",
             "state": {
@@ -123,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "483e43684fd57588",
@@ -340,10 +326,10 @@
   },
   "active": "67dc527ad18b8557",
   "lastOpenFiles": [
-    "Дерево решений.md",
-    "DL/Entropy.md",
-    "ML/Cross Entropy Loss.md",
     "ML&DL.md",
+    "DL/Entropy.md",
+    "Дерево решений.md",
+    "ML/Cross Entropy Loss.md",
     "Untitled 1.md",
     "R squared metric.md",
     "Pasted image 20250415164046.png",
