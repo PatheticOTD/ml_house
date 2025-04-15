@@ -1,13 +1,20 @@
 
-### Classic ML:
+# Classic ML:
 #### Алгоритмы кластеризации:
 1) [[K-means]]
 
+#### Деревья и как их прунить: 
+[[Decision tree]]
 #### Бустинги:
 1) [[AdaBoost]]
 2) [[GBM]]
 3) [[Catboost algorithm]]
-
+#### Метрики:
+1) [[Recall and Precision]]
+2) [[F1]]
+3) [[RocAuc]]
+4) [[R squared metric]]
+# DL
 [[Строение нейрона]]
 ### Активации:
 1) линейные (чекай [[Перцептроны]])
@@ -17,7 +24,6 @@
 5) и его друг [[Softplus]]
 6) [[GELU]]
 7) [[Softmax]]
-
 ### CV:
 [[CNN]]
 [[Pooling]]
