@@ -86,16 +86,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R squared metric.md",
+                "file": "ML&DL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R squared metric"
+              "title": "ML&DL"
+            }
+          },
+          {
+            "id": "3d59fe7aa273ec8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "483e43684fd57588",
@@ -310,16 +324,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75425d125403ddb5",
+  "active": "3d59fe7aa273ec8e",
   "lastOpenFiles": [
+    "ML&DL.md",
+    "Untitled 1.md",
+    "R squared metric.md",
     "Pasted image 20250415164046.png",
     "RocAuc.md",
-    "R squared metric.md",
     "Recall and Precision.md",
     "F1.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Untitled.md",
-    "ML&DL.md",
     "mml-book.pdf",
     "Inverse and transpose.md",
     "Mathematics for machine learning/Linear Algebra/Multiplication.md",
@@ -349,7 +364,6 @@
     "DL/Transformers.md",
     "images/transformer_architecture.png",
     "images/Transformer,_full_architecture 1.png",
-    "images/Transformer,_full_architecture.jpg",
     "DL/Positional embedding.md",
     "DL/CNN.md",
     "Mathematics for machine learning/Linear Algebra",
