@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recall and Precision.md",
+                "file": "R squared metric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recall and Precision"
+              "title": "R squared metric"
             }
           },
           {
@@ -326,15 +326,15 @@
   },
   "active": "67dc527ad18b8557",
   "lastOpenFiles": [
+    "R squared metric.md",
+    "Recall and Precision.md",
+    "RocAuc.md",
     "ML&DL.md",
-    "DL/Entropy.md",
     "Дерево решений.md",
+    "DL/Entropy.md",
     "ML/Cross Entropy Loss.md",
     "Untitled 1.md",
-    "R squared metric.md",
     "Pasted image 20250415164046.png",
-    "RocAuc.md",
-    "Recall and Precision.md",
     "F1.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Untitled.md",
