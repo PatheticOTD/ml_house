@@ -170,8 +170,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -283,7 +282,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec1687e9171ce84",
+  "active": "a8497c31de7976f2",
   "lastOpenFiles": [
     "ML&DL.md",
     "Recall and Precision.md",
