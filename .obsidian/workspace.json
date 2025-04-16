@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/Oblivious Decision Trees.md",
+                "file": "ML/Catboost algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oblivious Decision Trees"
+              "title": "Catboost algorithm"
             }
           }
         ],
@@ -312,7 +312,10 @@
   },
   "active": "a921b7cc39726a62",
   "lastOpenFiles": [
+    "ML/Cosine Similarity.md",
     "ML/Catboost algorithm.md",
+    "DL/Oblivious Decision Trees.md",
+    "Pasted image 20250416105611.png",
     "ML&DL.md",
     "ML/GBM.md",
     "ML/AdaBoost.md",
@@ -340,8 +343,6 @@
     "DL/GELU.md",
     "ML/Catboost library.md",
     "DL/mAP.md",
-    "python_libs/PyTorch.md",
-    "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
     "images/Pasted image 20250414110336.png",
     "nlp_intro.pdf",
     "байесовская статистика.pdf",
@@ -351,7 +352,6 @@
     "images/Screenshot From 2025-03-24 12-54-12 1.png",
     "images/Screenshot From 2025-03-24 12-54-12.png",
     "images/Pasted image 20250324125452.png",
-    "images/transformer_architecture.png",
     "Mathematics for machine learning/Linear Algebra",
     "Mathematics for machine learning",
     "cards",
