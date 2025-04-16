@@ -312,8 +312,9 @@
   },
   "active": "a921b7cc39726a62",
   "lastOpenFiles": [
-    "ML/Cosine Similarity.md",
+    "ML/CatboostEncoding.md",
     "ML/Catboost algorithm.md",
+    "ML/Cosine Similarity.md",
     "DL/Oblivious Decision Trees.md",
     "Pasted image 20250416105611.png",
     "ML&DL.md",
@@ -342,7 +343,6 @@
     "DL/Multi-head Attention.md",
     "DL/GELU.md",
     "ML/Catboost library.md",
-    "DL/mAP.md",
     "images/Pasted image 20250414110336.png",
     "nlp_intro.pdf",
     "байесовская статистика.pdf",
