@@ -98,14 +98,12 @@
             "id": "ffdaa3c9a5652c11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DL/LSTM.md",
-                "mode": "source",
-                "source": false
+                "file": "байесовская статистика.pdf"
               },
-              "icon": "lucide-file",
-              "title": "LSTM"
+              "icon": "lucide-file-text",
+              "title": "байесовская статистика"
             }
           }
         ],
@@ -326,6 +324,7 @@
   },
   "active": "ffdaa3c9a5652c11",
   "lastOpenFiles": [
+    "DL/LSTM.md",
     "ML&DL.md",
     "mml-book.pdf",
     "ML/Catboost algorithm.md",
