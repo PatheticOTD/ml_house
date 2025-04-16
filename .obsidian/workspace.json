@@ -310,10 +310,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a921b7cc39726a62",
+  "active": "42d717bfb956689c",
   "lastOpenFiles": [
-    "ML/CatboostEncoding.md",
     "ML/Catboost algorithm.md",
+    "ML/CatboostEncoding.md",
     "ML/Cosine Similarity.md",
     "DL/Oblivious Decision Trees.md",
     "Pasted image 20250416105611.png",
