@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/критерий джини и gini impurity.md",
+                "file": "ML/AdaBoost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "критерий джини и gini impurity"
+              "title": "AdaBoost"
             }
           }
         ],
@@ -284,6 +284,7 @@
   },
   "active": "a1ed341c1e19731f",
   "lastOpenFiles": [
+    "ML/критерий джини и gini impurity.md",
     "ML/AdaBoost.md",
     "ML&DL.md",
     "Ансамбли.md",
@@ -315,7 +316,6 @@
     "Mathematics for machine learning/Linear Algebra/Summation.md",
     "nlp_intro.pdf",
     "байесовская статистика.pdf",
-    "Mathematics for machine learning/Bayesian statistics/Баесовские рассуждения.md",
     "Mathematics for machine learning/Bayesian statistics",
     "images/Screenshot From 2025-03-24 12-46-20.png",
     "images/Pasted image 20250120113717.png",
