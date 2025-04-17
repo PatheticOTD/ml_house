@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 11.933174224343675,
+        "dimension": 19.928400954653938,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -29,7 +29,7 @@
       {
         "id": "483e43684fd57588",
         "type": "tabs",
-        "dimension": 88.06682577565633,
+        "dimension": 80.07159904534606,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -252,11 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faf8123b5c83def8",
+  "active": "42d717bfb956689c",
   "lastOpenFiles": [
-    "ML&DL.md",
-    "nlp_intro.pdf",
     "mml-book.pdf",
+    "nlp_intro.pdf",
+    "ML&DL.md",
     "байесовская статистика.pdf",
     "DL/LSTM.md",
     "ML/Catboost algorithm.md",
