@@ -252,13 +252,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "751a2433d40f32f9",
+  "active": "faf8123b5c83def8",
   "lastOpenFiles": [
+    "ML&DL.md",
     "nlp_intro.pdf",
     "mml-book.pdf",
     "байесовская статистика.pdf",
     "DL/LSTM.md",
-    "ML&DL.md",
     "ML/Catboost algorithm.md",
     "ML/CatboostEncoding.md",
     "ML/Cosine Similarity.md",
