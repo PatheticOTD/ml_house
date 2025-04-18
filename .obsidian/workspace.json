@@ -44,7 +44,7 @@
       {
         "id": "483e43684fd57588",
         "type": "tabs",
-        "dimension": 51.551312649164686,
+        "dimension": 51.55131264916468,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -267,13 +267,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fa1abb60e86188d",
+  "active": "42d717bfb956689c",
   "lastOpenFiles": [
+    "DL/LSTM.md",
     "ML&DL.md",
     "nlp_intro.pdf",
     "mml-book.pdf",
     "байесовская статистика.pdf",
-    "DL/LSTM.md",
     "ML/Catboost algorithm.md",
     "ML/CatboostEncoding.md",
     "ML/Cosine Similarity.md",
