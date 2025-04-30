@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "fceff4b641628969",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f91caf002897c2c",
+        "type": "tabs",
+        "dimension": 40.72494669509595,
+        "children": [
+          {
+            "id": "751a2433d40f32f9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML&DL.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ML&DL"
+            }
+          },
+          {
+            "id": "0c9175772f3c4eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/DAC&ADC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DAC&ADC"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "483e43684fd57588",
+        "type": "tabs",
+        "dimension": 59.27505330490405,
+        "children": [
+          {
+            "id": "faf8123b5c83def8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/nlp_intro.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "nlp_intro"
+            }
+          },
+          {
+            "id": "6fa1abb60e86188d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/mml-book.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "mml-book"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28088cd2021bc538",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcd178bd90ac3b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8497c31de7976f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4eab07d6ef8a88a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Entro",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c452f5f2199a0ffd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c51ec527b41c23bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ba6dbe5c9fa60e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5739e0d61df504",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DL/DAC&ADC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DAC&ADC"
+            }
+          },
+          {
+            "id": "046078a87fa39ab8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML&DL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ML&DL"
+            }
+          },
+          {
+            "id": "27cca5a635eb2002",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dc67dc6325b1587c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nlp_intro.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of nlp_intro"
+            }
+          },
+          {
+            "id": "42d717bfb956689c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0c9175772f3c4eb3",
+  "lastOpenFiles": [
+    "books/nlp_intro.pdf",
+    "DL/DAC&ADC.md",
+    "ML&DL.md",
+    "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
+    "Mathematics for machine learning/Analytic Geometry",
+    "images/Pasted image 20250430151809.png",
+    "DAC/ADC.md",
+    "DL/Sound waves.md",
+    "DAC",
+    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
+    "images/Pasted image 20250430112710.png",
+    "books/mml-book.pdf",
+    "images/Pasted image 20250429160611.png",
+    "Hyperlane.md",
+    "Mathematics for machine learning/Linear Algebra/Groups.md",
+    "Gro ups.md",
+    "images/Pasted image 20250422114350.png",
+    "images/Pasted image 20250423084119.png",
+    "Mathematics for machine learning/Linear Algebra/Multiplication.md",
+    "images/Pasted image 20250422101921.png",
+    "images/Pasted image 20250422100616.png",
+    "images/Pasted image 20250422100448.png",
+    "Mathematics for machine learning/Linear Algebra/Inverse and transpose.md",
+    "Mathematics for machine learning/Statistics",
+    "Untitled.md",
+    "books",
+    "Untitled 1.md",
+    "images/Pasted image 20250415164046.png",
+    "DL/LSTM.md",
+    "books/байесовская статистика.pdf",
+    "ML/Catboost algorithm.md",
+    "ML/CatboostEncoding.md",
+    "ML/Cosine Similarity.md",
+    "DL/Oblivious Decision Trees.md",
+    "images/Pasted image 20250416105611.png",
+    "ML/GBM.md",
+    "ML/AdaBoost.md",
+    "ML/критерий джини и gini impurity.md",
+    "ML/Ансамбли.md",
+    "Mathematics for machine learning/Statistics/Bootstrap.md",
+    "ML/RocAuc.md",
+    "ML/Recall and Precision.md",
+    "Mathematics for machine learning/Bayesian statistics",
+    "Mathematics for machine learning/Linear Algebra",
+    "Mathematics for machine learning"
+  ]
+}
